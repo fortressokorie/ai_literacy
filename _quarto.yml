@@ -35,6 +35,8 @@ website:
           text: HW1
     - section: "Labs"
       contents:
+        - href: labs/lab0.qmd
+          text: Lab0
         - href: labs/lab1.qmd
           text: Lab1
     - section: "Semester Project"
