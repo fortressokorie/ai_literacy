@@ -1,0 +1,13 @@
+---
+title: "Lab 0"
+subtitle: "Uncovering Policing Habits with Dictionaries"
+---
+
+Lab Group: You and one other person are to work together to complete this lab assignment.
+
+Python Notebook: Please download the Python Notebook **lab0_policing.ipynb** [here](https://github.com/chefs-kiss/ML_J2026/tree/main/labs). 
+You and your partner can work on a single file, then upload it to *both* of your websites.
+
+
+
+
