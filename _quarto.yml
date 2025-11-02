@@ -31,7 +31,7 @@ website:
           text: Using Github
     - section: "Homework"
       contents:
-        - href: homework/HW1.qmd
+        - href: homework/hw1.qmd
           text: HW1
     - section: "Labs"
       contents:
@@ -46,7 +46,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     # css: styles.css
     toc: true
 
