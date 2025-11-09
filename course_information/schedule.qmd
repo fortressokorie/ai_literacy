@@ -11,7 +11,7 @@
 | Th      | Jan 8     | [📖<br><br> readings](../02-EVL/rr-EVL.qmd){.badge .bg-light .text-decoration-none}     |  EVL      |  [👩🏻‍🏫<br><br>EVL1](../slides.html?q=EVL1){.badge .bg-light .text-decoration-none} [👩🏻‍🏫<br><br>EVL2](../slides.html?q=EVL2){.badge .bg-light .text-decoration-none} [QUIZ <br><br>EDA]{.badge .bg-info} [📝<br><br>HW:EVL](/02-EVL/hw-EVL.qmd){.badge .bg-light .text-decoration-none}                |
 | F       | Jan 9     | [📓<br>EVL<br> standard](../01-EDA/std-EDA.qmd){.badge .bg-light .text-decoration-none}      | EVL                    | [👩🏻‍🏫<br><br>EVL3](../slides.html?q=EVL3){.badge .bg-light .text-decoration-none}  [☑️<br><br>PC2](../project#pc2){.badge .bg-light .text-decoration-none} [💻<br><br>Lab:EVL](){.badge .bg-light .text-decoration-none}                                               |
 
-Over the weekend, complete an [article review](syllabus.qmd#article-reviews)
+Over the weekend, complete an [article review](../articles.qmd)
 
 ## Week 2 (Jan 12 - 16)
 
@@ -23,7 +23,7 @@ Over the weekend, complete an [article review](syllabus.qmd#article-reviews)
 | Th      | Jan 15    | [📓<br>DATA<br> standard](){.badge .bg-light .text-decoration-none}   | DATA                   |  [👩🏻‍🏫<br><br>DATA3](){.badge .bg-light .text-decoration-none}  [☑️<br><br>PC4](){.badge .bg-light .text-decoration-none}  [💻<br><br>Lab:DATA](){.badge .bg-light .text-decoration-none}                |
 | F       | Jan 16    | [📖<br><br> readings](){.badge .bg-light .text-decoration-none}    |  MOD     | [👩🏻‍🏫<br><br>TREE1](){.badge .bg-light .text-decoration-none}  [👩🏻‍🏫<br><br>TREE2](){.badge .bg-light .text-decoration-none}  [QUIZ <br><br>DATA]{.badge .bg-info}  [📝<br><br>HW:TREE](){.badge .bg-light .text-decoration-none}                     |
 
-Over the weekend, complete an [article review](syllabus.qmd#article-reviews)
+Over the weekend, complete an [article review](../articles.qmd)
 
 ## Week 3 (Jan 19 - 23)
 
@@ -35,7 +35,7 @@ Over the weekend, complete an [article review](syllabus.qmd#article-reviews)
 | Th      | Jan 22    |  [📖<br><br> readings](){.badge .bg-light .text-decoration-none}     |   ENS      |  [👩🏻‍🏫<br><br>ENS1](){.badge .bg-light .text-decoration-none} [👩🏻‍🏫<br><br>ENS2](){.badge .bg-light .text-decoration-none}  [QUIZ <br><br>LIN]{.badge .bg-info} [📝<br><br>HW:ENS](){.badge .bg-light .text-decoration-none}                        |
 | F       | Jan 23    |     [📓<br>ENS<br> standard](){.badge .bg-light .text-decoration-none}             | ENS   | [👩🏻‍🏫<br><br>ENS3](){.badge .bg-light .text-decoration-none} [☑️<br><br>PC7](){.badge .bg-light .text-decoration-none}  [💻<br>Lab:MOD <br>Part 2](){.badge .bg-light .text-decoration-none}   [QUIZ <br> RETAKES <br> TREE+LIN]{.badge .bg-info .text-decoration-none}                       |
 
-Over the weekend, complete an [article review](syllabus.qmd#article-reviews)
+Over the weekend, complete an [article review](../articles.qmd)
 
 ## Week 4 (Jan 26 - 30)
 
