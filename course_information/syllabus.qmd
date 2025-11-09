@@ -31,8 +31,7 @@ Through the lens of machine learning, we will:
 
 ## Course Schedule
 The schedule for this course is available by navigating to Course Information > Schedule on the navigation window to the left. 
-This page is likely to be 
-updated throughout the semester, and will be announced in class if it is. 
+This page is likely to be updated throughout the semester, and will be announced in class if it is. 
 
 ## Active Learning and Engagement
 I expect you to take an active role in class each day, participating positively,

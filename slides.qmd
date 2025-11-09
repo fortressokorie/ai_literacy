@@ -11,9 +11,9 @@ execute:
   // Slides organized by topic
   const slidesByTopic = {
     "EDA": {
-      "EDA1": "https://docs.google.com/presentation/d/1vXiVFaSsBIhlHjO_p1hXRefWfyRjFdsBXQVJslPyF_g/edit?slide=id.g3a19c45b4b0_1_5#slide=id.g3a19c45b4b0_1_5",
-      "EDA2": "https://docs.google.com/presentation/d/1vXiVFaSsBIhlHjO_p1hXRefWfyRjFdsBXQVJslPyF_g/edit?slide=id.g33a550423b4_0_650#slide=id.g33a550423b4_0_650",
-      "EDA3": "https://docs.google.com/presentation/d/1vXiVFaSsBIhlHjO_p1hXRefWfyRjFdsBXQVJslPyF_g/edit?slide=id.g33a550423b4_0_1438#slide=id.g33a550423b4_0_1438"
+      "EDA1": "https://docs.google.com/presentation/d/1vXiVFaSsBIhlHjO_p1hXRefWfyRjFdsBXQVJslPyF_g/edit?slide=id.g3a1af70067d_1_0#slide=id.g3a1af70067d_1_0",
+      "EDA2": "https://docs.google.com/presentation/d/1vXiVFaSsBIhlHjO_p1hXRefWfyRjFdsBXQVJslPyF_g/edit?slide=id.g3a1af70067d_2_16#slide=id.g3a1af70067d_2_16",
+      "EDA3": "https://docs.google.com/presentation/d/1vXiVFaSsBIhlHjO_p1hXRefWfyRjFdsBXQVJslPyF_g/edit?slide=id.g3a1af70067d_2_11#slide=id.g3a1af70067d_2_11"
     },
     "EVL": {
       "EVL1":"https://docs.google.com/presentation/d/1GtvpOFBLJzXoIgXyQgwvJR5PDyIkhCuacD80LlGRHic/edit?slide=id.g323999f4ad1_0_263#slide=id.g323999f4ad1_0_263",
