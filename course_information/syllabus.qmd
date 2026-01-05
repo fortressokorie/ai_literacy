@@ -280,7 +280,8 @@ All tests, quizzes, and examinations of any kind are taken under the St. Olaf Ho
 responsible for adhering to all principles of the Honor System regardless of the individual circumstances associated
 with their assessment environment.
 
-## Computer Science Program Attendance Policy Jterm 2026: Attending class is essential for learning the
+## Computer Science Program Attendance Policy Jterm 2026: 
+Attending class is essential for learning the
 content of the course, as well as practicing communication and collaboration. Missing class hinders your ability to
 achieve these important learning outcomes. That said, you understandably may need to occasionally miss class
 due to illness or a scheduling conflict. In these situations, I do not want to judge which absences should count as
