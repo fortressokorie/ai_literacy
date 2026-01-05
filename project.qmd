@@ -11,11 +11,23 @@ You must complete this project individually.
 # Requirements
 
 The first requirement for the project is that you have created a workflow plan for each section of the ML
-workflow process, and have code that implements that plan. 
-There is a template up on Moodle for you to copy. You may make any changes you want to this template. 
+workflow process, and have code that implements that plan. You will want to create a colab workbook, and include this plan at
+the beginning of your code notebook. 
+
+Your plan should include the following:
+
+ *  What will be your goal in working on this project?
+ *  What will be your source for data for the project? If this requires you to gather data, how will you go about this?
+ *  What data cleaning, conversion, or preparation will you need to do to prepare your data set?
+ *  What kinds of exploratory data analysis will you do?
+ *  Which machine learning algorithms will you use to train models? Why are you choosing these algorithms?
+ *  How will you attempt to optimize your models?
+ *  How will you analyze the accuracy of your models?
 
 Your workflow should have some form of data pre-processing, some kind of exploratory data analysis, training and testing of machine learning algorithms
-(including some parameter tuning), and evaluating the performance of your models. 
+(including some parameter tuning), and evaluating the performance of your models. It is very important that your plan is complete and very detailed, in order to show a thorough understanding
+of the process of training a model using machine learning, in case you don’t have time to fully complete
+your project.
 
 The second requirement for the project is that it use one of the following datasets. These datasets cover a
 variety of topics and have enough records to build substantial models. If you wish, you may choose your
@@ -62,10 +74,11 @@ that we can make sure you have a realistic plan to gather enough data.
 Perform some exploratory data analysis. 
 Discuss the results, and what this tells you about your data, as well as your expectations for your results. 
 This should include some data visualizations that go beyond a basic chart.
+Start to answer the questions from your plan.
 
 ### PC4
 Time to do some research. What is the goal of the model you plan to build? Has something similar been done with this type of data?
-Do a write up of background information, making sure to link sources.
+Do a write up of background information, making sure to link sources. 
 
 ### PC5
 Prepare your data set for training. This might include handling missing or categorical values, basic conversions, or more extensive conversions.
