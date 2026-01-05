@@ -32,13 +32,12 @@ your project.
 The second requirement for the project is that it use one of the following datasets. These datasets cover a
 variety of topics and have enough records to build substantial models. If you wish, you may choose your
 own data set (both the UCI repo or data.world are good places to start) that is not on this list, but you’ll
-need to check with your instructor first.
+need to check with your instructor first (look for data >5k records with both numeric and categorial features)
 
 - [Cardiotocography](https://archive.ics.uci.edu/dataset/193/cardiotocography)
 - [Human Activity Recognition Using Smartphones](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 - [Letter Recognition](https://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
 - [Turkiye Student Evaluation](https://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation)
-- [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 - [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 - [Contraceptive Method Choice Data Set](https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice)
 - [Crimes in Chicago](https://www.kaggle.com/currie32/crimes-in-chicago)
