@@ -7,12 +7,13 @@ You should be able to:
 - Define learning approaches (supervised vs. unsupervised learning) and learning tasks (regression, classification, and clustering).
 - Interpret a dataset summary table.
 - Describe a model’s goal and explain who might benefit from the model.
+- Describe the five steps ML workflow and give a few examples of tasks for each step
 
 ## EDA-STAT
 
 You should be able to:
 
-- Define common statistical measures and explain them to a non-technical audience using real-world examples.
+- Understand and describe statistical measures, distributions, and tests
 - Read and interpret charts, including identifying key features (skew, balance, shape) and chart types (histogram, boxplot, scatterplot)
 - Identify different feature types (numeric, discrete, continuous, ordinal, categorical, binary, or none).
 - Explain what factors to consider when deciding whether a feature type is appropriate to include in a machine learning model.
