@@ -60,41 +60,51 @@ a requirement to find an outside datasource and post on the Forum under ["Places
 Identify three data sets that you're interested in. If you include a data set not on the list above, you need to check with your instructor. Include links to each dataset. <br>
 
 ### PC2
-Select one dataset and do some background research. Make sure your data is accessible on a git repo. 
 
+Create a Colab workbook and copy-paste the workflow plan above into a text box. 
+Identify the dataset you'd like to use for your project, and fill out the project goal (first question).
+You may have to do some background research on your topic. Then fill out the next three questions.
+
+Next, make sure your data is accessible on a git repo somewhere so you can get started on the next PC. 
 Depending on your project, this might be as simple as locating a git repo that has your data set, 
-or it might require you to upload the dataset to your personal git repo. 
-Additionally, this could involve combining multiple data sources, or gathering data yourself. If your
-project requires you to gather your own data, please discuss this with your instructor before beginning, so
-that we can make sure you have a realistic plan to gather enough data. 
+or it might require you to upload the dataset to your personal git repo.
 
 
 ### PC3
-Perform some exploratory data analysis. 
+Perform some exploratory data analysis using your workbook.
 Discuss the results, and what this tells you about your data, as well as your expectations for your results. 
 This should include some data visualizations that go beyond a basic chart.
-Start to answer the questions from your plan.
+
 
 ### PC4
-Time to do some research. What is the goal of the model you plan to build? Has something similar been done with this type of data?
-Do a write up of background information, making sure to link sources. 
+Time to do some more background research. By now, hopefully you have identified what the goal of the model you plan to build is. 
+Your task is to see if something similar been done with this type of data.
+Do a brief write up of background information (one paragraph) making sure to link sources. 
+
+You should also continue to build out your workflow plan, adding more details as you learn new material in class.
 
 ### PC5
 Prepare your data set for training. This might include handling missing or categorical values, basic conversions, or more extensive conversions.
-Any choices that you make should be explained. Additionally, spend time making good visualizations.
+Any choices that you make should be explained. 
+Additionally, you may want to consider creating more visualizations using this pre-processed (or what we call "clean") data.
 
 ### PC6
-Plan out your modeling workflow: what models would you like to use, what evaluation are you doing? Start building your presentation.
+Finish laying out your project workflow and begin building your presentation. 
+Think about how to make the insights from your analysis, your model goal, or the background information engaging for a general audience. 
+Use this checkpoint to explore what makes a story compelling and experiment with ways to bring that story to life in your presentation.
 
 ### PC7
-Train models using machine learning algorithms. Although you do not need to use every algorithm that we’ve covered, you should use those that make sense for your data set. You should explain your choices,
-and perform parameter tuning in order to optimize their performance.Continue building presentation.
+Train models using machine learning algorithms. 
+Although you should not use every algorithm that we’ve covered, you should use those that make sense for your data set. 
+You should explain your choices, and perform parameter tuning in order to optimize their performance.
+
+Add a slide to your presentation describing the algorithms and tuning you did, making sure to make it relatable for a general audience.
 
 ### PC8
 Discussion of results. Compare the performance of your models, and discuss the results. Do you consider
 your results successful? Explain why or why not, and discuss how further improvements might be made. 
 
-Continue working on your final presentation. You want a presentation that is digestible to a non-technical audidence and is interesting in some way (visualizations, insights, models, data).
+Continue working on your final presentation. You want a presentation that is digestible to a non-technical audidence and is interesting (visualizations, insights, models, data).
 
 ### PC9
 Evaluation of your plan. Discuss how closely you were able to follow your workflow. What unexpected issues did you encounter? What adjustments did you need to make? How would this affect planning a future
@@ -102,7 +112,7 @@ machine learning project? Finalize your presentation, and submit your link along
 
 # Final Submission
 The final submission evaluates the overall quality of your project and presentation, based on the materials submitted prior to the final exam. 
-Submissions are due the night before finals. 
+Submissions are due the night before the final. 
 
 A detailed grading rubric *TBD*
 
