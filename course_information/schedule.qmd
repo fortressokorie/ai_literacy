@@ -1,6 +1,6 @@
 ![](../static/art3.png)
 
-Note: Days that are bolded will be help asynchronously. 
+Note: Days that are bolded will be held asynchronously. 
 Student will work through the material at their own pace, and schedule a time to meet with their lab partner (if needed).
 
 ## Week 1 (Jan 5 - 9)
