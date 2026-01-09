@@ -20,5 +20,5 @@ including calculating statistical measures, conducting statistical tests, and cr
 ## Lab: EVL
 In this lab, we will explore the Wisconsin Breast Cancer dataset and focus on key aspects of model evaluation and resampling techniques. 
 We will comment on the complexity of chosen models in a developed workflow, discuss resampling techniques, as well as the implications on various evaluation metrics. 
-The lab finished with auditing the algorithms using the ethical matrix framework discussed in class.
+The lab finishes with auditing the algorithms using the ethical matrix framework discussed in class.
 [Click to view Colab Notebook](https://colab.research.google.com/drive/1uYkprwhGBk1K6Fq0KXTNeJwNyUFOx2I-?usp=sharing)
