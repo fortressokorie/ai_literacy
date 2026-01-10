@@ -22,3 +22,10 @@ In this lab, we will explore the Wisconsin Breast Cancer dataset and focus on ke
 We will comment on the complexity of chosen models in a developed workflow, discuss resampling techniques, as well as the implications on various evaluation metrics. 
 The lab finishes with auditing the algorithms using the ethical matrix framework discussed in class.
 [Click to view Colab Notebook](https://colab.research.google.com/drive/1uYkprwhGBk1K6Fq0KXTNeJwNyUFOx2I-?usp=sharing)
+
+
+## Lab: CLS
+In this lab, we will be working with image data and exploring how decisions made in the modeling workflow impact
+results for our clustering models. There are a selection of open-ended questions (give your best guess on these)
+along with implementing some aspects of the clustering algorithm with functions that you build.
+[Click to view Colab Notebook](https://colab.research.google.com/drive/1zxjJBzxeiUDcKLoKXxMzQ-9GyLkKPbN3#scrollTo=jwg7qCK6uMR2)
