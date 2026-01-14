@@ -1,3 +1,2 @@
-For the following calculations, you can reuse the functions you build in your in-class workbooks.
 
 <iframe src="HW_DATA.pdf" width="100%" height="800px"></iframe> 
