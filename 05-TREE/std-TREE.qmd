@@ -1,0 +1,32 @@
+The following standards will be assessed on the TREE quiz:
+
+## ALG-TREE
+
+You should be able to:
+
+- 
+
+## TRAIN-TREE
+
+You should be able to:
+
+- 
+
+## Study Tips
+
+Review the lecture slides, workbooks, homework assignments, and the associated lab.  
+Quiz questions are similar (though not identical) to the types of questions covered in these materials.
+You should be able to use appropriate terminology and apply the concepts covered in class to a variety of new scenarios.
+
+The primary goal of each quiz is to give you an opportunity to apply concepts with clear and well-explained reasoning.  
+Quizzes are also a valuable opportunity to receive feedback on your reasoning skills.  
+
+
+## Formulas given
+
+$\text{Silhouette coefficient} = \frac{b-a}{max(a,b)}$
+$\text{Euclidean distance} = \sqrt{(x_2 - x_1)^2+ (y_2 - y_1)^2}$
+
+
+
+

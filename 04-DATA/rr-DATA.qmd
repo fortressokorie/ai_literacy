@@ -1,5 +1,7 @@
 # DATA readings
 
+[Feature Engineering](https://towardsdatascience.com/7-of-the-most-used-feature-engineering-techniques-bcc50f48474d/) walks through various data preparation methods as well as PCA.
+
 The following excerpts are from a data wrangling in Python resource. When reading keep an eye out for some of the methods used (some of which you've likely seen already), and general ideas of how to begin working with data (it's okay if you don't understand every single example). We'll cover more specific applications in class.
 
 [Working with a Pandas DataFrame](https://sscc.wisc.edu/sscc/pubs/dwp/DataFrames.html) describes how to look at and access features and entries inside a pandas DataFrame.
@@ -11,5 +13,7 @@ The following excerpts are from a data wrangling in Python resource. When readin
 [Data summarization](https://sscc.wisc.edu/sscc/pubs/dwp/Hierarchical_Data_Long.html) walks through how to do some summarization and transformations common in data cleaning.
 
 [Additional Pandas content](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
+
+
 
 Cheatsheets: [numpy](../files/numpy.pdf), [pandas](../files/pandas.pdf), [reshaping](../files/reshaping.pdf), [text data](../files/text_data.pdf)
