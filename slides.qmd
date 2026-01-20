@@ -35,7 +35,10 @@ execute:
       "TREE1":"https://docs.google.com/presentation/d/1FuZ1fhOdXQR3mXYMnqJs3TynPwnir6xgROqTJchCGrE/edit?slide=id.g3ba82aea71e_0_0#slide=id.g3ba82aea71e_0_0",
       "TREE2":"https://docs.google.com/presentation/d/1FuZ1fhOdXQR3mXYMnqJs3TynPwnir6xgROqTJchCGrE/edit?slide=id.g3ba82aea71e_0_125#slide=id.g3ba82aea71e_0_125",
       "TREE3" : "https://docs.google.com/presentation/d/1FuZ1fhOdXQR3mXYMnqJs3TynPwnir6xgROqTJchCGrE/edit?slide=id.g3ba82aea71e_0_135#slide=id.g3ba82aea71e_0_135",
-      "KNN":"","LIN1":"","LIN2":"","SVM":""},
+      "KNN":"",
+      "LIN1":"https://docs.google.com/presentation/d/19LLF9z-B4KLSVsrIF3QgnEHM70GveCzwWW-h374A0R0/edit?slide=id.g3b918ed6968_0_0#slide=id.g3b918ed6968_0_0",
+      "LIN2":"https://docs.google.com/presentation/d/19LLF9z-B4KLSVsrIF3QgnEHM70GveCzwWW-h374A0R0/edit?slide=id.g3b918ed6968_0_50#slide=id.g3b918ed6968_0_50",
+      "SVM":""},
     "ENS": {"ENS1":"","ENS2":"","ENS3":""},
     "NN": {"NN1":"","NN2":"","NN3":""},
     "DL": {"DL1":"","DL2":"","DL3":""}
