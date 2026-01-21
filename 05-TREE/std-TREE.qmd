@@ -26,7 +26,14 @@ The primary goal of each quiz is to give you an opportunity to apply concepts wi
 Quizzes are also a valuable opportunity to receive feedback on your reasoning skills.  
 
 
+## Formulas Given
 
+Entropy: $-p*log_2(p) - (1-p)log_2(1-p)$ <br>
+Gini impurity:   $2*p*(1-p)$ <br>
+
+Impurity$_{\text{total}}:   2*P(target=yes)*P(target=no)$ <br>
+
+Impurity$_{Question}:   P(\text{Q=yes})*\text{Impurity}(\text{Q=yes})*P(\text{Q=no})*\text{Impurity}(\text{Q=no})$
 
 
 
