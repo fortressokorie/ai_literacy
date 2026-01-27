@@ -47,6 +47,9 @@ execute:
       "NN1":"https://docs.google.com/presentation/d/1FbfagJuRHVHG7OSMIGvUJNC80RvmNFG-9LUtLGY4gxw/edit?slide=id.g3bbf0497fa0_0_3#slide=id.g3bbf0497fa0_0_3",
       "NN2":"https://docs.google.com/presentation/d/1FbfagJuRHVHG7OSMIGvUJNC80RvmNFG-9LUtLGY4gxw/edit?slide=id.g3bbf0497fa0_0_53#slide=id.g3bbf0497fa0_0_53",
       "NN3":"https://docs.google.com/presentation/d/1FbfagJuRHVHG7OSMIGvUJNC80RvmNFG-9LUtLGY4gxw/edit?slide=id.g3bbf0497fa0_0_58#slide=id.g3bbf0497fa0_0_58"},
+    "STORY:" : {
+      "STORY" : ""
+    },
     "DL": {"DL1":"","DL2":"","DL3":""}
   };
 
