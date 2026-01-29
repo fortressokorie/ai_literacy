@@ -118,11 +118,11 @@ machine learning project? Finalize your presentation, and submit your link along
 
 # Final Submission
 The final submission evaluates the overall quality of your project and presentation, based on the materials submitted prior to the final exam. 
-Submissions are due the night before the final. 
+Submissions are due by the last day of class.
 
 A detailed grading [rubric](course_information/project_rubric.qmd)
 
-# Small group presentations
+# Presentations
 (12 pts): During presentations, you will participate in three rounds of small-group presentations, presenting one-on-one with another project. 
 Grading is based on the quality of your peer review during these rounds. 
 
