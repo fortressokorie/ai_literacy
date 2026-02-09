@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Machine Learning"
+  title: "AI Literacy in Education"
   search:
     type: textbox
   sidebar:
@@ -13,45 +13,37 @@ website:
     align: center
     tools:
       - icon: house
-        href: course_information/schedule.qmd
+        href: index.qmd
         text: Home
-      - icon: file-earmark-pdf
-        href: https://chefs-kiss.github.io/ML_J2026/files/ISLP.pdf
-        text: ISLP
-      - icon: chat-heart
-        href: https://mdl.stolaf.edu/course/view.php?id=56310
-        text: Moodle
       - icon: github
-        href: https://github.com/chefs-kiss/ML_J2026
+        href: https://github.com/chefs-kiss/ai_literacy
         text: GitHub
     style: docked
     contents:
-    - section: "Course Information"
+    - section: "Moderated Discussions"
       contents:
-        - href: index.qmd
-          text: Home
-        - href: course_information/schedule.qmd
+        - href: discussions/schedule.qmd
           text: Schedule
-        - href: https://mdl.stolaf.edu/mod/forum/view.php?id=514243
-          text: Moodle Forum
-    - section: "Materials"
+        - href: discussions/discussion1.qmd
+          text: Discussion 1
+    - section: "Quantifying Engagement"
       contents:
-        - href: homework.qmd
-          text: Homework
-          icon: file-earmark-text
-        - href: labs.qmd
-          text: Labs
-          icon: journal-code
-        - href: project.qmd
-          text: Project
-        - href: slides.qmd
-          text: Slides
-        - href: articles.qmd
-          text: Article Reviews
+        - href: survey/
+          text: Overview
+    - section: "Reassessing Assessments"
+      contents:
+        - href: assessments/
+          text: Overview
+    - section: "About"
+      contents:
+        - href: information/resources.qmd
+          text: Resources
+        - href: information/people.qmd
+          text: People
 
 format:
   html:
-    theme: sandstone  #yeti #materia #lux #sandstone #spacelab #vapor   #litera
+    theme: yeti  #yeti #materia #lux #sandstone #spacelab #vapor   #litera
     #css: styles.css
     toc: true
 

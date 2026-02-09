@@ -1,14 +1,20 @@
 ---
-title: "Machine Learning"
+title: "AI Literacy in Education"
 ---
 
 ![](static/art1.jpg)
 
-This is the homepage for CSCI 200 - Introduction to Machine Learning taught by Prof. Kim Mandery in January 2026 at St. Olaf College. All course materials will be posted on this site.
+An analysis from Axios’ Megan Morrone shows that after initial resistance, institutions of learning are becoming more accepting of the idea of the integration of AI tools into the teaching and learning process. Driving the decline in resistance is the emerging idea that these tools are here to stay, and avoiding integrating them could leave students unprepared for life after college (think work). There is no doubt that these tools will transform the nature of teaching and learning at all levels of education. The hard part is figuring out how to balance fears of academic dishonesty with ensuring that students continue to develop critical thinking and other mission-relevant skills that support holistic learning. 
 
-We will be using our Moodle page to [submit assignments](https://mdl.stolaf.edu/course/section.php?id=1379416) and host our class [discussion forum](https://mdl.stolaf.edu/mod/forum/view.php?id=514243)
+The first goal of this independent study is to understand current attitudes within our community towards the integration of AI tools into the teaching and learning process here at our college. 
 
-Click here for the [course syllabus](course_information/syllabus.qmd) or here for the [course schedule](course_information/schedule.qmd)
+The second goal of this independent study is to invite faculty and students into a dialogue that helps build a consensus around what constitutes meaningful integration of AI tools into the teaching and learning experience here at St. Olaf, both at a school-wide level and at the level of individual disciplines and individual classrooms. We hope that this dialogue helps build an understanding of the arguments for and against, as well as reflection on the thorny ethical issues that come with such integration. We hope that the culmination of that dialogue is a “common core” set of best practices that maximizes trust between faculty and students in the classroom. 
+
+Finally, *tbd*
+
+
+[People](information/people.qmd) and [Resources](information/resources.qmd)
+
 
 ![](static/art2.jpg)
 

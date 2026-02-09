@@ -1,3 +1,0 @@
-The worksheet we will be using during lecture ESB3
-<iframe src="MOD_WS.pdf" width="100%" height="800px"></iframe> 
-
