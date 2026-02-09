@@ -31,14 +31,16 @@ website:
       - href: assessments/
         text: Reassessing Assessments
 
+      
+
+    right:
       - text: About
         menu:
           - href: information/people.qmd
             text: People
           - href: information/resources.qmd
             text: Resources
-
-    right:
+            
       - icon: github
         href: https://github.com/chefs-kiss/ai_literacy
 
