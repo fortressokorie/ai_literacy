@@ -3,43 +3,44 @@ project:
   output-dir: docs
 
 website:
-  title: "AI Literacy in Education"
+  title: "AI Literacy <br> in Education"
+
   search:
     type: textbox
-  sidebar:
+
+  navbar:
     background: primary
-    # logo: "images/logo.png"
-    pinned: true
-    align: center
-    tools:
-      - icon: house
-        href: index.qmd
-        text: Home
+    search: true
+
+    left:
+
+      - text: Bookclub
+        menu:
+          - href: discussions/schedule.qmd
+            text: Schedule
+          - href: discussions/discussion1.qmd
+            text: Session1
+          - href: discussions/discussion2.qmd
+            text: Session2
+          - href: discussions/discussion3.qmd
+            text: Session3
+
+      - href: survey/
+        text: Quantifying Readiness
+
+      - href: assessments/
+        text: Reassessing Assessments
+
+      - text: About
+        menu:
+          - href: information/people.qmd
+            text: People
+          - href: information/resources.qmd
+            text: Resources
+
+    right:
       - icon: github
         href: https://github.com/chefs-kiss/ai_literacy
-        text: GitHub
-    style: docked
-    contents:
-    - section: "Moderated Discussions"
-      contents:
-        - href: discussions/schedule.qmd
-          text: Schedule
-        - href: discussions/discussion1.qmd
-          text: Discussion 1
-    - section: "Quantifying Engagement"
-      contents:
-        - href: survey/
-          text: Overview
-    - section: "Reassessing Assessments"
-      contents:
-        - href: assessments/
-          text: Overview
-    - section: "About"
-      contents:
-        - href: information/resources.qmd
-          text: Resources
-        - href: information/people.qmd
-          text: People
 
 format:
   html:
