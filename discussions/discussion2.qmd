@@ -1,0 +1,11 @@
+---
+title: "Session 2"
+format: html
+---
+## Overview 
+Here, we can think about the Ethics of GenAI use in a classroom setting. Detection tools suck and are biased, so what are we going to do? When should we disclose/ How should we disclose? What constitutes academic dishonesty? This is a really good resource to that point from The Wharton School of Business. Thinking about trust and social exchange theory, and how we can build those things up in GenAI-assisted learning. 
+## Meeting Date and Location
+
+## Discussion Questions
+
+## Additional Resources

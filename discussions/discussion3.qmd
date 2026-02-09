@@ -1,0 +1,12 @@
+---
+title: "Session3"
+format: html
+---
+## Overview 
+Collective brainstorming session. Faculty and students essentially come together to contribute to building their ideal framework for GenAI use (generally for St. Olaf and specific to their disciplines) as well as share best practices. The results of this brainstorm/think-aloud can be put together in a doc that we host on the website and that people have access to. We can also do a kind of exit poll with a few questions from the original survey to see how people's opinions change. 
+
+## Meeting Date and Location
+
+## Discussion Questions
+
+## Additional Resources
