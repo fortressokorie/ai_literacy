@@ -114,13 +114,11 @@ There is no reliable way to detect whether a piece of text is AI-generated. Rese
 
 ---
 
-### Call to Action
+### Call to Action and Final Reflection
 
 Mollick ends the book with a call to action:
 
 > “The thing about a widely applicable technology is that decisions about how it is used are not limited to a small group of people… We can’t wait for decisions to be made for us, and the world is advancing too fast to remain passive” (210).
-
-### Final Reflection
 
 Assume Mollick is correct and that you play a role in shaping what AI means for your institution and for higher education.
 

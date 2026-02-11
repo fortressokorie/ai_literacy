@@ -20,4 +20,100 @@ Note: This is not during either SOAR discussions nor faculty meetings
 
 ## Discussion Questions
 
+### Chapter 3: Rules for Working with AI
+
+In Chapter 3, Mollick introduces four rules for working with AI:
+
+- Always invite AI to the table
+- Be the human in the loop
+- Treat AI like a person (but tell it what kind of person it is)
+- Assume this is the worst AI you will ever use
+
+
+1. How, if at all, would you revise these rules?  
+   - What would you add or subtract?
+
+2. Do you think these rules make sense for the purpose of figuring out how to incorporate AI tools into our classrooms?
+
+3. If you already make use of AI tools (particularly Generative AI tools), what are some of your own personal rules for working with AI?  
+   - Why do you consider those rules important?
+
+4. What rules would you make for student use of Generative AI?
+
+---
+
+### Chapter 5: “The Button” and the Blank Page
+
+In Chapter 5, Mollick writes:
+
+> “When faced with the tyranny of the blank page, people are going to push *The Button*. It is so much easier to start with something than with nothing. Students are going to use it to start essays…. Everyone is going to use *The Button*” (119).
+
+
+1. Is using *The Button* inherently bad, or is there an argument to be made for allowing students to use Generative AI as a brainstorming tool and to support higher-level planning and thinking?
+
+2. What do we gain or lose by going one way or the other on this issue?
+
+Mollick goes on to write:
+
+> “When we use AI to generate our first drafts, we tend to anchor on the first idea the machine produces, which influences our future work” (119).
+
+3. Suppose we limit the generation to just a list of ideas as opposed to a draft.  
+   - Would you revise any of your previous answers?
+
+4. Do you agree or disagree with the following statement?
+
+> *In general, the incorporation of Generative AI tools into classes will hinder students from developing their own unique style (whether it’s writing—essays or proofs—or even just the way they think and reason through problems).*
+
+---
+
+### Cointelligence and Subject Matter Expertise
+
+Mollick describes a powerful tension between access to AI outputs across domains and the ability to properly work with those outputs as **“cointelligence.”** He writes:
+
+> “The issue is that in order to learn to think critically, problem-solve, understand abstract concepts, reason through novel problems, and evaluate the AI’s output, we need subject matter expertise” (181).
+
+
+1. What might be some of the implications of this tension for universities and colleges?
+
+2. As a faculty member, how would you define **subject matter expertise**?
+
+3. As a student, how would you define **subject matter expertise**?
+
+4. A student is very unlikely to have subject matter expertise in a course they are actively enrolled in.  
+   - Given this, are there ways to meaningfully incorporate AI use into classrooms that support learning and growth?
+   - Can AI assist students in developing subject matter expertise as you define it?
+
+---
+
+### AI, Tutoring, and the Future of Teaching
+
+Benjamin Bloom’s 1984 paper *“The 2 Sigma Problem”* showed that students receiving one-to-one tutoring performed two standard deviations better than those in conventional classroom settings. Bloom challenged educators to find scalable methods that could achieve similar results.
+
+Mollick writes:
+
+> “This is where AI comes in… AI will reshape how we teach and learn, both in schools and after we leave them… They won't replace teachers but will make classrooms more necessary… and they will destroy the way we teach before they improve it” (160).
+
+1. What changes are you already feeling or seeing in the classroom—as students or as teachers?
+
+Mollick also writes:
+
+> “Education has changed remarkably little for centuries… Students do homework to practice what they’ve learned and then get tested to ensure they’ve retained their knowledge… research shows that both homework and tests are remarkably useful learning tools… So, it’s a blow that the first impact of LLMs was to usher in the homework apocalypse” (161).
+
+1. No questions, just food for thought 
+
+---
+
+### Call to Action and Final Reflection
+
+Mollick ends the book with a call to action:
+
+> “The thing about a widely applicable technology is that decisions about how it is used are not limited to a small group of people… We can’t wait for decisions to be made for us, and the world is advancing too fast to remain passive” (210).
+
+Assume Mollick is correct and that you play a role in shaping what AI means for your institution and for higher education.
+
+1. What will you commit to doing in the next weeks and months to respond to this call?
+2. How can we collectively support one another in doing this work?
+
+**Think long and hard about this question—we will return to it in our third session.**
+
 ## Additional Resources

@@ -19,4 +19,68 @@ Note: This is not during either SOAR discussions nor faculty meetings
 
 ## Discussion Questions
 
-## Additional Resources
+### Trust, Assessment, and Academic Integrity
+
+There is no reliable way to detect whether a piece of text is AI-generated. Research has shown that AI detectors have extremely high false positive rates, especially for non-native English speakers.
+
+1. How do we maintain trust between faculty and students in a world where, unless work is produced in class, there is no accurate way to determine whether it is human-created?
+
+2. For classes where knowledge cannot be meaningfully assessed through timed exams, what are some broad-stroke ways to ensure core learning objectives are being met?  
+   - Feel free to be general or discipline-specific.
+
+3. Every school and instructor must define acceptable AI use.  
+   - Choose a specific discipline and describe:
+     - What acceptable AI use might look like  
+     - What unacceptable AI use would be  
+   - Justify your reasoning.
+
+---
+
+### AI, Creativity, and Meaningful Work
+
+In his discussion of AI as a creative tool, Mollick argues:
+
+> “A lot of work is time-consuming by design. In a world in which the AI gives an instant, pretty good, near-universally accessible shortcut, we’ll soon face a crisis of meaning in creative work of all kinds. This is, in part, because we expect creative work to take careful thought and revision, but also that time often operates as a stand-in for work” (120).
+
+
+1. If time is no longer a reliable proxy for effort, what might be some of the markers we should use to assess:
+   - Quality?
+   - Sincerity?
+
+2. How does this translate to an academic context?
+
+3. How do we maintain trust between faculty and students that work is not being outsourced inappropriately to GenAI models?
+
+---
+
+### The Rise of Humanizer AI’s
+
+In a recent NBC News article titled “To avoid accusations of AI cheating, college students are turning to AI”, Tyler Kingkade explores how some college students who had been falsely accused of using AI to cheat now turn to so-called “Humanizer AIs” to “dumb down” their writing. As one of them put it,
+
+> “I have to do whatever I can to just show I actually write my homework myself.”
+
+1. If a student writes their own work and then runs it through a “humanizer” to avoid being falsely flagged, is that cheating? What, exactly, would make it unethical?
+
+2. The article suggests that students now feel responsible for proving that their work is human-generated rather than institutions proving that it is not. What does this shift in burden of proof mean for trust between students and faculty? 
+
+One of the students featured in the article who had resorted to using AI detectors said: 
+
+> “But it does feel like my writing isn’t giving insight into anything — I’m writing just so that I don’t flag those AI detectors,”
+
+1. If students routinely use tools to mask their writing style, what happens to the idea of a “student voice”? 
+
+### General Questions 
+
+1. If we accept the premise that detection is unreliable and that students will adapt strategically, what kinds of assignments would make “humanizer” tools unnecessary? For classes in your discipline, what would an assessment look like that cannot be meaningfully “humanized” by AI? 
+
+2. Many of the tools mentioned in the article are paid services. How might unequal access to “humanizers” and detection-avoidance strategies deepen existing educational inequalities? Should universities intervene in this market, and if so, how?
+
+3. Imagine you are writing an AI policy for your department. Would you explicitly ban “humanizer AIs”? If so, how would you justify that ban without relying on unreliable detection? If not, how would you define acceptable use?
+
+
+## Reading Materials 
+
+- [To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878?utm_source=archives.internationalintrigue.io&utm_medium=newsletter&utm_campaign=world-reacts-to-epstein&_bhlid=01205c2df4e3f51a62501cd2bae8114bb4a8ef1b) By Tyler Kingkade, *Jan 2026* 
+
+- [Why AI Disclosure Matter at Every Level](https://knowledge.wharton.upenn.edu/article/why-ai-disclosure-matters-at-every-level/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=1-21-2026&utm_content=Why_AI_Disclosure_Matters_at_Every_Level) By Cornelia Walther, *Jan 2026* 
+
