@@ -23,13 +23,15 @@ website:
           - href: discussions/discussion2.qmd
             text: Session2
           - href: discussions/discussion3.qmd
-            text: Session3
+            text: Session3 
 
-      - href: survey/
-        text: Quantifying Readiness
+      - href: information/resources.qmd
+        text: Resources
+     # - href: survey/
+    #    text: Quantifying Readiness
 
-      - href: assessments/
-        text: Reassessing Assessments
+     # - href: assessments/
+      #  text: Reassessing Assessments
 
       
 
@@ -38,8 +40,6 @@ website:
         menu:
           - href: information/people.qmd
             text: People
-          - href: information/resources.qmd
-            text: Resources
             
       - icon: github
         href: https://github.com/chefs-kiss/ai_literacy
