@@ -46,7 +46,7 @@ website:
 
 format:
   html:
-    theme: yeti  #yeti #materia #lux #sandstone #spacelab #vapor   #litera
+    theme: yeti  #yeti #materia #lux #sandstone #spacelab #vapor   #litera #themes here: https://bootswatch.com/
     #css: styles.css
     toc: true
 
