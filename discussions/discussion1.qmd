@@ -1,11 +1,22 @@
 ---
-title: "Session1"
+title: "Session 1: GenAI and the Future of Teaching & Learning"
 format: html
 ---
 ## Overview 
-How do we see AI affecting and transforming education? (GenAI and the future of teaching and learning). We'd have Co-Intelligence as our main reference material, with a few extra things I'm still pulling together. Thinking this could also be a good session to launch a survey in. Will share more about what our current survey looks like when we meet in person again. 
+This session explores how generative AI is reshaping education and what that means 
+for teaching and learning. Using Co-Intelligence by Ethan Mollick as a guiding text, 
+we will examine how AI tools may augment or transform classroom practices, the way 
+faculty impart knowledge, and the way students engage with the learning process. 
+The discussion will focus on practical and conceptual questions about how AI is already 
+influencing higher education and where it may be headed. No prior reading is required - 
+discussion questions are designed to provide all relevant context, 
+so all participants can engage meaningfully regardless of familiarity with the material.
+
 
 ## Meeting Date and Location
+Thursday, February 19th in Room XXX from 11:30 to 12:30 CST
+
+Note: This is not during either SOAR discussions nor faculty meetings
 
 ## Discussion Questions
 

@@ -1,10 +1,21 @@
 ---
-title: "Session 2"
+title: "Session 2: Ethics, Trust, and Transparency in GenAI Use"
 format: html
 ---
 ## Overview 
-Here, we can think about the Ethics of GenAI use in a classroom setting. Detection tools suck and are biased, so what are we going to do? When should we disclose/ How should we disclose? What constitutes academic dishonesty? This is a really good resource to that point from The Wharton School of Business. Thinking about trust and social exchange theory, and how we can build those things up in GenAI-assisted learning. 
+This session centers on the ethical challenges of using generative AI in 
+classroom/learning settings. We will discuss issues of trust between students and 
+faculty, responsible use of AI tools, and the ethics of disclosure when syllabi lack 
+clear AI policies. Participants will consider questions such as: When is AI use 
+appropriate? How should expectations be communicated? What does academic integrity 
+mean in an age of AI assistance? Through guided discussion, we will explore how 
+classrooms can balance innovation with fairness, accountability, and mutual trust.
+
+
 ## Meeting Date and Location
+Thursday, March 5th in Room XXX from 11:30 to 12:30 CST
+
+Note: This is not during either SOAR discussions nor faculty meetings
 
 ## Discussion Questions
 

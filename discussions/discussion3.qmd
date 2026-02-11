@@ -1,11 +1,21 @@
 ---
-title: "Session3"
+title: "Session 3: Building a Shared Framework for GenAI at St. Olaf"
 format: html
 ---
 ## Overview 
-Collective brainstorming session. Faculty and students essentially come together to contribute to building their ideal framework for GenAI use (generally for St. Olaf and specific to their disciplines) as well as share best practices. The results of this brainstorm/think-aloud can be put together in a doc that we host on the website and that people have access to. We can also do a kind of exit poll with a few questions from the original survey to see how people's opinions change. 
+This final session is a collaborative brainstorming workshop bringing together 
+students and faculty to co-create visions for responsible and effective GenAI use at St.
+Olaf. Participants will share discipline-specific needs, successful practices, and 
+concerns, and work toward developing a set of common core principles for AI use across 
+courses and departments. The ideas generated will be synthesized into a publicly shared 
+document as a product of this project, aiming to contribute constructively to ongoing 
+campus conversations about AI rather than replace existing efforts.
+
 
 ## Meeting Date and Location
+Thursday, March 19th in Room XXX from 11:30 to 12:30 CST
+
+Note: This is not during either SOAR discussions nor faculty meetings
 
 ## Discussion Questions
 
