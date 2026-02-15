@@ -79,5 +79,3 @@ One of the students featured in the article who had resorted to using AI detecto
 1. If we accept the premise that detection is unreliable and that students will adapt strategically, what kinds of assignments would make “humanizer” tools unnecessary? For classes in your discipline, what would an assessment look like that cannot be meaningfully “humanized” by AI? 
 
 2. Many of the tools mentioned in the article are paid services. How might unequal access to “humanizers” and detection-avoidance strategies deepen existing educational inequalities? Should universities intervene in this market, and if so, how?
-
-3. Imagine you are writing an AI policy for your department. Would you explicitly ban “humanizer AIs”? If so, how would you justify that ban without relying on unreliable detection? If not, how would you define acceptable use?
