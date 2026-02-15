@@ -17,6 +17,13 @@ classrooms can balance innovation with fairness, accountability, and mutual trus
 
 Note: This is not during either SOAR discussions nor faculty meetings
 
+## Reading Materials 
+
+- [To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878?utm_source=archives.internationalintrigue.io&utm_medium=newsletter&utm_campaign=world-reacts-to-epstein&_bhlid=01205c2df4e3f51a62501cd2bae8114bb4a8ef1b) By Tyler Kingkade, *Jan 2026* 
+
+- [Why AI Disclosure Matter at Every Level](https://knowledge.wharton.upenn.edu/article/why-ai-disclosure-matters-at-every-level/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=1-21-2026&utm_content=Why_AI_Disclosure_Matters_at_Every_Level) By Cornelia Walther, *Jan 2026* 
+
+
 ## Discussion Questions
 
 ### Trust, Assessment, and Academic Integrity
@@ -32,7 +39,6 @@ There is no reliable way to detect whether a piece of text is AI-generated. Rese
    - Choose a specific discipline and describe:
      - What acceptable AI use might look like  
      - What unacceptable AI use would be  
-   - Justify your reasoning.
 
 ---
 
@@ -43,13 +49,12 @@ In his discussion of AI as a creative tool, Mollick argues:
 > “A lot of work is time-consuming by design. In a world in which the AI gives an instant, pretty good, near-universally accessible shortcut, we’ll soon face a crisis of meaning in creative work of all kinds. This is, in part, because we expect creative work to take careful thought and revision, but also that time often operates as a stand-in for work” (120).
 
 
-1. If time is no longer a reliable proxy for effort, what might be some of the markers we should use to assess:
+1. In general, if time is no longer a reliable proxy for effort, what might be some of the markers we should use to assess:
    - Quality?
    - Sincerity?
+   - Others? 
 
 2. How does this translate to an academic context?
-
-3. How do we maintain trust between faculty and students that work is not being outsourced inappropriately to GenAI models?
 
 ---
 
@@ -67,7 +72,7 @@ One of the students featured in the article who had resorted to using AI detecto
 
 > “But it does feel like my writing isn’t giving insight into anything — I’m writing just so that I don’t flag those AI detectors,”
 
-1. If students routinely use tools to mask their writing style, what happens to the idea of a “student voice”? 
+3. If students routinely use tools to mask their writing style, what happens to the idea of a “student voice”? 
 
 ### General Questions 
 
@@ -76,11 +81,3 @@ One of the students featured in the article who had resorted to using AI detecto
 2. Many of the tools mentioned in the article are paid services. How might unequal access to “humanizers” and detection-avoidance strategies deepen existing educational inequalities? Should universities intervene in this market, and if so, how?
 
 3. Imagine you are writing an AI policy for your department. Would you explicitly ban “humanizer AIs”? If so, how would you justify that ban without relying on unreliable detection? If not, how would you define acceptable use?
-
-
-## Reading Materials 
-
-- [To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878?utm_source=archives.internationalintrigue.io&utm_medium=newsletter&utm_campaign=world-reacts-to-epstein&_bhlid=01205c2df4e3f51a62501cd2bae8114bb4a8ef1b) By Tyler Kingkade, *Jan 2026* 
-
-- [Why AI Disclosure Matter at Every Level](https://knowledge.wharton.upenn.edu/article/why-ai-disclosure-matters-at-every-level/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=1-21-2026&utm_content=Why_AI_Disclosure_Matters_at_Every_Level) By Cornelia Walther, *Jan 2026* 
-

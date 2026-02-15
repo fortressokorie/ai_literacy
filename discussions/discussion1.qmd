@@ -33,7 +33,7 @@ In Chapter 3, Mollick introduces four rules for working with AI:
 1. How, if at all, would you revise these rules?  
    - What would you add or subtract?
 
-2. Do you think these rules make sense for the purpose of figuring out how to incorporate AI tools into our classrooms?
+2. Do you think these rules make sense for the purpose of figuring out how to or if we should incorporate AI tools into our classrooms?
 
 3. If you already make use of AI tools (particularly Generative AI tools), what are some of your own personal rules for working with AI?  
    - Why do you consider those rules important?
@@ -44,21 +44,19 @@ In Chapter 3, Mollick introduces four rules for working with AI:
 
 ### Chapter 5: “The Button” and the Blank Page
 
-In Chapter 5, Mollick writes:
+Referring to GenAI as "The Button", in Chapter 5, Mollick writes:
 
 > “When faced with the tyranny of the blank page, people are going to push *The Button*. It is so much easier to start with something than with nothing. Students are going to use it to start essays…. Everyone is going to use *The Button*” (119).
-
 
 1. Is using *The Button* inherently bad, or is there an argument to be made for allowing students to use Generative AI as a brainstorming tool and to support higher-level planning and thinking?
 
 2. What do we gain or lose by going one way or the other on this issue?
 
+3. Mollick explores the idea that some people naturally have more or better ideas than others and that GenAI tools can help close this "idea generation gap". Suppose we limit the generation to just a list of ideas as opposed to a draft. Would you revise any of your previous answers?
+
 Mollick goes on to write:
 
 > “When we use AI to generate our first drafts, we tend to anchor on the first idea the machine produces, which influences our future work” (119).
-
-3. Suppose we limit the generation to just a list of ideas as opposed to a draft.  
-   - Would you revise any of your previous answers?
 
 4. Do you agree or disagree with the following statement?
 

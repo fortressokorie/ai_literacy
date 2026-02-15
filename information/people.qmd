@@ -1,6 +1,6 @@
 ::: {layout-ncol=2}
 ::: {#fortress}
-![](../static/art2.jpg)
+![](../static/peole_2.png)
 
 **Fortress Okorie** 
 
@@ -8,7 +8,7 @@ Fortress is a junior majoring in Mathematics and Quantitative Economics, with a 
 :::
 
 ::: {#mandery}
-![](../static/art2.jpg)
+![](../static/peole_3.png)
 
 **Professor Kim Mandery** 
 

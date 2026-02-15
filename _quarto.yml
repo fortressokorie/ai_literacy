@@ -18,13 +18,13 @@ website:
         text: Schedule
 
       - href: discussions/discussion1.qmd
-        text: Session1
+        text: Session 1
 
       - href: discussions/discussion2.qmd
-        text: Session2
+        text: Session 2
 
       - href: discussions/discussion3.qmd
-        text: Session3 
+        text: Session 3 
 
       - href: information/resources.qmd
         text: Resources
