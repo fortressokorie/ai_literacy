@@ -2,7 +2,7 @@
 title: "AI Literacy in Education"
 ---
 
-![](static/art1.jpg)
+![](static/logo_3.png)
 
 The AI Literacy in Education sessions are a series of public-facing discussions developed as part of an independent study focused on understanding how generative artificial intelligence is transforming teaching and learning in higher education. 
 
@@ -26,6 +26,6 @@ Taken together, these sessions aim to foster AI literacy as a collective, commun
 [People](information/people.qmd) and [Resources](information/resources.qmd)
 
 
-![](static/art2.jpg)
+![](static/logo_1.png)
 
 *Artwork: The Myth of Zhuangzi by Yeachin Tsai*
