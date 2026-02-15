@@ -6,12 +6,14 @@ The following are things that I found thought provoking in my reading about AI.
 
 1. [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace) By Dario Amodei 
 - Dario Amodei's take on how AI Could Transform the World for the Better
+- Note: Dario Amodei is the CEO of Anthropic
 
 2. [The Adolescnce of Technology](https://darioamodei.com/essay/the-adolescence-of-technology) By Dario Amodei 
 - Dario Amodei's take on Confronting and Overcoming the Risks of Powerful AI
 
 3. [Something Big is Happening](https://x.com/mattshumer_/status/2021256989876109403?s=42) By Matt Schumer
-- Matt Schumer makes a case comparing he current moment to the weeks before Covid-19
+- Matt Schumer makes a case for everyone to be using AI comparing the current moment to the weeks before Covid-19
+- Note: Matt Schumer is the CEO of an AI start-up
 - This take in my opinion is overly alarmist
 
 The perspectives represented here do not necessarily reflect my opinions. 
