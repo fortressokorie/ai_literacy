@@ -4,7 +4,7 @@ title: "AI Literacy in Education"
 
 ![](static/logo_3.png)
 
-The AI Literacy in Education sessions are a series of public-facing discussions developed as part of an independent study focused on understanding how generative artificial intelligence is transforming teaching and learning in higher education. 
+The AI Literacy in Education sessions are a series of public-facing discussions developed as part of a **Spring 2026 independent study project by Fortress Okorie** focused on understanding how generative artificial intelligence is transforming teaching and learning in higher education. 
 
 As AI tools become increasingly present in academic life, faculty and students alike are navigating new questions about how these technologies should be used (or not) and regulated in classroom settings. This project creates a shared space for dialogue, recognizing that meaningful AI literacy requires not only technical knowledge but also thoughtful reflection on teaching pedagogy, ethics, and personal and institutional values.
 
@@ -17,6 +17,8 @@ The final session, Building a Shared Framework for GenAI at St. Olaf, serves as 
 Taken together, these sessions aim to foster AI literacy as a collective, community-based practice,  grounded in dialogue and respect for diverse pedagogical approaches. By centering both student and faculty perspectives, this project seeks to support more intentional, transparent, and equitable decisions about how generative AI is used in teaching and learning at St. Olaf.
 
 * The generation of the text on this page was partly assisted by ClaudeAI for proofreading and editing. 
+
+**For any questions related to this project please contact Fortress Okorie at okorie1@stolaf.edu.**
 
 
 
