@@ -12,8 +12,10 @@ The following are things that I found thought provoking in my reading about AI.
 - Dario Amodei's take on Confronting and Overcoming the Risks of Powerful AI
 
 3. [Something Big is Happening](https://x.com/mattshumer_/status/2021256989876109403?s=42) By Matt Schumer
-- Matt Schumer makes a case for everyone to be using AI comparing the current moment to the weeks before Covid-19
+- Matt Schumer makes a case for everyone to be using AI and compares the current moment to the weeks before Covid-19
 - Note: Matt Schumer is the CEO of an AI start-up
 - This take in my opinion is overly alarmist
 
 The perspectives represented here do not necessarily reflect my opinions. 
+
+**If you come across anything that you think people should be reading please send them to me at okorie1@stolaf.edu so I can include them on this page**
