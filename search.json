@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "survey/index.html",
+    "href": "survey/index.html",
+    "title": "AI Literacy <br> in Education",
+    "section": "",
+    "text": "General ideas:\n\nAssessing willingness to incorporate AI\nAssessing readiness to incorporate AI\nWhat’s the vibe\nCulture, support, trust (social exchange theory)\nPotential to actually disseminate the survey if we get the provost on board\nMaybe at other peer institutions as well."
+  },
+  {
     "objectID": "discussions/schedule.html",
     "href": "discussions/schedule.html",
     "title": "Book Club Schedule",
@@ -7,67 +14,46 @@
     "text": "Meeting Date\nSession Topic\nNotes\n\n\n\n\nFeb 19, 2026\nGenAI and the Future of Teaching & Learning  Join us for an open discussion on how GenAI is reshaping teaching and student engagement. Using Ethan Mollick’s Co-Intelligence as a base, we’ll explore practical ways AI is influencing higher ed. No prior reading required!\n Meeting Notes   Discussion Questions\n\n\nMarch 5, 2026\nEthics, Trust, and Transparency in GenAI Use  Students and faculty will discuss the ethical challenges surrounding GenAI use. The focus will be on how classrooms can balance innovation with fairness, accountability, and mutual trust.\n Meeting Notes   Discussion Questions\n\n\nMarch 19, 2026\nBuilding a Shared Framework for GenAI at St. Olaf  This final session is a collaborative brainstorming workshop bringing together students and faculty to co-create visions for responsible and effective GenAI use at St. Olaf.\n Meeting Notes   Discussion Questions"
   },
   {
+    "objectID": "discussions/discussion3.html",
+    "href": "discussions/discussion3.html",
+    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "section": "",
+    "text": "This final session is a collaborative brainstorming workshop bringing together students and faculty to co-create visions for responsible and effective GenAI use at St. Olaf. Participants will share discipline-specific needs, successful practices, and concerns, and work toward developing a set of common core principles for AI use across courses and departments. The ideas generated will be synthesized into a publicly shared document as a product of this project, aiming to contribute constructively to ongoing campus conversations about AI rather than replace existing efforts."
+  },
+  {
+    "objectID": "discussions/discussion3.html#overview",
+    "href": "discussions/discussion3.html#overview",
+    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "section": "",
+    "text": "This final session is a collaborative brainstorming workshop bringing together students and faculty to co-create visions for responsible and effective GenAI use at St. Olaf. Participants will share discipline-specific needs, successful practices, and concerns, and work toward developing a set of common core principles for AI use across courses and departments. The ideas generated will be synthesized into a publicly shared document as a product of this project, aiming to contribute constructively to ongoing campus conversations about AI rather than replace existing efforts."
+  },
+  {
+    "objectID": "discussions/discussion3.html#meeting-date-and-location",
+    "href": "discussions/discussion3.html#meeting-date-and-location",
+    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "section": "Meeting Date and Location",
+    "text": "Meeting Date and Location\nThursday, March 19th in RNS 356 from 11:30 to 12:30 CST\nNote: Due to scheduling difficulties this session will occur over a SOAR session."
+  },
+  {
+    "objectID": "discussions/discussion3.html#discussion-questions",
+    "href": "discussions/discussion3.html#discussion-questions",
+    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nCall to Action and Final Reflection\nMollick ends the book with a call to action:\n\n“The thing about a widely applicable technology is that decisions about how it is used are not limited to a small group of people… We can’t wait for decisions to be made for us, and the world is advancing too fast to remain passive” (210).\n\nAssume Mollick is correct and that you play a role in shaping what AI means for your institution and for higher education.\n\nWhat will you commit to doing in the next weeks and months to respond to this call?\nHow can we collectively support one another in doing this work?"
+  },
+  {
+    "objectID": "discussions/discussion3.html#additional-resources",
+    "href": "discussions/discussion3.html#additional-resources",
+    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "section": "Additional Resources",
+    "text": "Additional Resources"
+  },
+  {
     "objectID": "discussions/DQ_general.html",
     "href": "discussions/DQ_general.html",
     "title": "AI Literacy <br> in Education",
     "section": "",
     "text": "Chapter 3: Rules for Working with AI\nIn Chapter 3, Mollick introduces four rules for working with AI:\n\nAlways invite AI to the table\nBe the human in the loop\nTreat AI like a person (but tell it what kind of person it is)\nAssume this is the worst AI you will ever use\n\n\nHow, if at all, would you revise these rules?\n\nWhat would you add or subtract?\n\nDo you think these rules make sense for the purpose of figuring out how to incorporate AI tools into our classrooms?\nIf you already make use of AI tools (particularly Generative AI tools), what are some of your own personal rules for working with AI?\n\nWhy do you consider those rules important?\n\nWhat rules would you make for student use of Generative AI?\n\n\n\n\nChapter 5: “The Button” and the Blank Page\nIn Chapter 5, Mollick writes:\n\n“When faced with the tyranny of the blank page, people are going to push The Button. It is so much easier to start with something than with nothing. Students are going to use it to start essays…. Everyone is going to use The Button” (119).\n\n\nIs using The Button inherently bad, or is there an argument to be made for allowing students to use Generative AI as a brainstorming tool and to support higher-level planning and thinking?\nWhat do we gain or lose by going one way or the other on this issue?\n\nMollick goes on to write:\n\n“When we use AI to generate our first drafts, we tend to anchor on the first idea the machine produces, which influences our future work” (119).\n\n\nSuppose we limit the generation to just a list of ideas as opposed to a draft.\n\nWould you revise any of your previous answers?\n\nDo you agree or disagree with the following statement?\n\n\nIn general, the incorporation of Generative AI tools into classes will hinder students from developing their own unique style (whether it’s writing—essays or proofs—or even just the way they think and reason through problems).\n\n\n\n\nAI, Creativity, and Meaningful Work\nIn his discussion of AI as a creative tool, Mollick argues:\n\n“A lot of work is time-consuming by design. In a world in which the AI gives an instant, pretty good, near-universally accessible shortcut, we’ll soon face a crisis of meaning in creative work of all kinds. This is, in part, because we expect creative work to take careful thought and revision, but also that time often operates as a stand-in for work” (120).\n\n\nIf time is no longer a reliable proxy for effort, what might be some of the markers we should use to assess:\n\nQuality?\nSincerity?\n\nHow does this translate to an academic context?\nHow do we maintain trust between faculty and students that work is not being outsourced inappropriately to GenAI models?\n\n\n\n\nCointelligence and Subject Matter Expertise\nMollick describes a powerful tension between access to AI outputs across domains and the ability to properly work with those outputs as “cointelligence.” He writes:\n\n“The issue is that in order to learn to think critically, problem-solve, understand abstract concepts, reason through novel problems, and evaluate the AI’s output, we need subject matter expertise” (181).\n\n\nWhat might be some of the implications of this tension for universities and colleges?\nAs a faculty member, how would you define subject matter expertise?\nAs a student, how would you define subject matter expertise?\nA student is very unlikely to have subject matter expertise in a course they are actively enrolled in.\n\nGiven this, are there ways to meaningfully incorporate AI use into classrooms that support learning and growth?\nCan AI assist students in developing subject matter expertise as you define it?\n\n\n\n\n\nAI, Tutoring, and the Future of Teaching\nBenjamin Bloom’s 1984 paper “The 2 Sigma Problem” showed that students receiving one-to-one tutoring performed two standard deviations better than those in conventional classroom settings. Bloom challenged educators to find scalable methods that could achieve similar results.\nMollick writes:\n\n“This is where AI comes in… AI will reshape how we teach and learn, both in schools and after we leave them… They won’t replace teachers but will make classrooms more necessary… and they will destroy the way we teach before they improve it” (160).\n\n\nWhat changes are you already feeling or seeing in the classroom—as students or as teachers?\n\nMollick also writes:\n\n“Education has changed remarkably little for centuries… Students do homework to practice what they’ve learned and then get tested to ensure they’ve retained their knowledge… research shows that both homework and tests are remarkably useful learning tools… So, it’s a blow that the first impact of LLMs was to usher in the homework apocalypse” (161).\n\n\n\n\nTrust, Assessment, and Academic Integrity\nThere is no reliable way to detect whether a piece of text is AI-generated. Research has shown that AI detectors have extremely high false positive rates, especially for non-native English speakers.\n\nHow do we maintain trust between faculty and students in a world where, unless work is produced in class, there is no accurate way to determine whether it is human-created?\nFor classes where knowledge cannot be meaningfully assessed through timed exams, what are some broad-stroke ways to ensure core learning objectives are being met?\n\nFeel free to be general or discipline-specific.\n\nEvery school and instructor must define acceptable AI use.\n\nChoose a specific discipline and describe:\n\nWhat acceptable AI use might look like\n\nWhat unacceptable AI use would be\n\n\nJustify your reasoning.\n\n\n\n\n\nCall to Action and Final Reflection\nMollick ends the book with a call to action:\n\n“The thing about a widely applicable technology is that decisions about how it is used are not limited to a small group of people… We can’t wait for decisions to be made for us, and the world is advancing too fast to remain passive” (210).\n\nAssume Mollick is correct and that you play a role in shaping what AI means for your institution and for higher education.\n\nWhat will you commit to doing in the next weeks and months to respond to this call?\nHow can we collectively support one another in doing this work?\n\nThink long and hard about this question—we will return to it in our third session."
-  },
-  {
-    "objectID": "discussions/discussion2.html",
-    "href": "discussions/discussion2.html",
-    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
-    "section": "",
-    "text": "This session centers on the ethical challenges of using generative AI in classroom/learning settings. We will discuss issues of trust between students and faculty, responsible use of AI tools, and the ethics of disclosure when syllabi lack clear AI policies. Participants will consider questions such as: When is AI use appropriate? How should expectations be communicated? What does academic integrity mean in an age of AI assistance? Through guided discussion, we will explore how classrooms can balance innovation with fairness, accountability, and mutual trust."
-  },
-  {
-    "objectID": "discussions/discussion2.html#overview",
-    "href": "discussions/discussion2.html#overview",
-    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
-    "section": "",
-    "text": "This session centers on the ethical challenges of using generative AI in classroom/learning settings. We will discuss issues of trust between students and faculty, responsible use of AI tools, and the ethics of disclosure when syllabi lack clear AI policies. Participants will consider questions such as: When is AI use appropriate? How should expectations be communicated? What does academic integrity mean in an age of AI assistance? Through guided discussion, we will explore how classrooms can balance innovation with fairness, accountability, and mutual trust."
-  },
-  {
-    "objectID": "discussions/discussion2.html#meeting-date-and-location",
-    "href": "discussions/discussion2.html#meeting-date-and-location",
-    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
-    "section": "Meeting Date and Location",
-    "text": "Meeting Date and Location\nThursday, March 5th in RNS 356 from 11:30 to 12:30 CST\nNote: This is not during either SOAR discussions nor faculty meetings"
-  },
-  {
-    "objectID": "discussions/discussion2.html#reading-materials",
-    "href": "discussions/discussion2.html#reading-materials",
-    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
-    "section": "Reading Materials",
-    "text": "Reading Materials\n\nTo avoid accusations of AI cheating, college students are turning to AI By Tyler Kingkade, Jan 2026\nWhy AI Disclosure Matter at Every Level By Cornelia Walther, Jan 2026\nCo-intelligence: living and working with AI by Ethan Mollick"
-  },
-  {
-    "objectID": "discussions/discussion2.html#discussion-questions",
-    "href": "discussions/discussion2.html#discussion-questions",
-    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
-    "section": "Discussion Questions",
-    "text": "Discussion Questions\n\nTrust, Assessment, and Academic Integrity\nThere is no reliable way to detect whether a piece of text is AI-generated. Research has shown that AI detectors have extremely high false positive rates, especially for non-native English speakers.\n\nHow do we maintain trust between faculty and students in a world where, unless work is produced in class, there is no accurate way to determine whether it is human-created?\nFor classes where knowledge cannot be meaningfully assessed through timed exams, what are some broad-stroke ways to ensure core learning objectives are being met?\n\nFeel free to be general or discipline-specific.\n\nEvery school and instructor must define acceptable AI use.\n\nChoose a specific discipline and describe:\n\nWhat acceptable AI use might look like\n\nWhat unacceptable AI use would be\n\n\n\n\n\n\nAI, Creativity, and Meaningful Work\nIn his discussion of AI as a creative tool, Mollick argues:\n\n“A lot of work is time-consuming by design. In a world in which the AI gives an instant, pretty good, near-universally accessible shortcut, we’ll soon face a crisis of meaning in creative work of all kinds. This is, in part, because we expect creative work to take careful thought and revision, but also that time often operates as a stand-in for work” (120).\n\n\nIn general, if time is no longer a reliable proxy for effort, what might be some of the markers we should use to assess:\n\nQuality?\nSincerity?\nOthers?\n\nHow does this translate to an academic context?\n\n\n\n\nThe Rise of Humanizer AI’s\nIn a recent NBC News article titled “To avoid accusations of AI cheating, college students are turning to AI”, Tyler Kingkade explores how some college students who had been falsely accused of using AI to cheat now turn to so-called “Humanizer AIs” to “dumb down” their writing. As one of them put it,\n\n“I have to do whatever I can to just show I actually write my homework myself.”\n\n\nIf a student writes their own work and then runs it through a “humanizer” to avoid being falsely flagged, is that cheating? What, exactly, would make it unethical?\nThe article suggests that students now feel responsible for proving that their work is human-generated rather than institutions proving that it is not. What does this shift in burden of proof mean for trust between students and faculty?\n\nOne of the students featured in the article who had resorted to using AI detectors said:\n\n“But it does feel like my writing isn’t giving insight into anything — I’m writing just so that I don’t flag those AI detectors,”\n\n\nIf students routinely use tools to mask their writing style, what happens to the idea of a “student voice”?\n\n\n\nGeneral Questions\n\nIf we accept the premise that detection is unreliable and that students will adapt strategically, what kinds of assignments would make “humanizer” tools unnecessary? For classes in your discipline, what would an assessment look like that cannot be meaningfully “humanized” by AI?\nMany of the tools mentioned in the article are paid services. How might unequal access to “humanizers” and detection-avoidance strategies deepen existing educational inequalities? Should universities intervene in this market, and if so, how?"
-  },
-  {
-    "objectID": "information/people.html",
-    "href": "information/people.html",
-    "title": "AI Literacy <br> in Education",
-    "section": "",
-    "text": "Fortress Okorie\nFortress is a junior majoring in Mathematics and Quantitative Economics, with a concentration in Statistics and Data Science. When he’s not thinking about data, he’s usually diving into history and historical fiction, especially the World Wars, the Cold War, and financial history, or exploring public policy, with a particular interest in technology and education. In his (mostly imaginary) free time, he enjoys logic puzzles and detective mystery games. He’s excited to explore the impact of GenAI with you and to be part of the conversation about what it could mean for teaching and learning at St. Olaf.\n\n\n\nProfessor Kim Mandery\nKim studied applied mathematics and statistics at the University of Minnesota - Duluth, and has worked in industry and government sectors prior to coming to academia. Her research dives into the ethical side of AI, inclusive tech design, and anything that makes machine learning more transparent and fun to learn. She spends her free time wrangling three dogs (named after hobbits), playing Magic the Gathering, and doing pottery."
-  },
-  {
-    "objectID": "assessments/index.html",
-    "href": "assessments/index.html",
-    "title": "AI Literacy <br> in Education",
-    "section": "",
-    "text": "General ideas:\n\nAI Proofing: Can We and Should We? Again, going back to the idea of (re)building trust in the classroom.\nPotential call for assessments at a faculty meeting."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI Literacy in Education",
-    "section": "",
-    "text": "The AI Literacy in Education sessions are a series of public-facing discussions developed as part of a Spring 2026 independent study project by Fortress Okorie focused on understanding how generative artificial intelligence is transforming teaching and learning in higher education.\nAs AI tools become increasingly present in academic life, faculty and students alike are navigating new questions about how these technologies should be used (or not) and regulated in classroom settings. This project creates a shared space for dialogue, recognizing that meaningful AI literacy requires not only technical knowledge but also thoughtful reflection on teaching pedagogy, ethics, and personal and institutional values.\nAcross three sessions, participants will explore both practical and conceptual dimensions of generative AI in education. The first session, GenAI and the Future of Teaching and Learning, examines how AI is already reshaping classroom practices and the ways knowledge is created, communicated, and assessed. Guided in part by ideas from Ethan Mollick’s Co-Intelligence, the discussion invites participants to consider how AI might augment or transform teaching methods and student learning, without requiring prior familiarity with the material.\nThe second session, Ethics, Trust, and Transparency in GenAI Use, focuses on the ethical and relational challenges raised by AI in academic contexts. This session continues to be guided by ideas from Mollick’s Co-Intelligence, as well as articles by Tyler Kingkade of NBC and Cornelia Walther of the Wharton School of Business. Participants will tackle questions centered around responsible use, disclosure, and academic integrity, as well as the role of trust between students and faculty. This session emphasizes the importance of fairness, accountability, and clear communication as institutions adapt to rapidly evolving technologies.\nThe final session, Building a Shared Framework for GenAI at St. Olaf, serves as a collaborative workshop in which students and faculty work together to articulate discipline-specific needs, share emerging practices, and voice concerns. The hope is to enable all voices to contribute constructively to ongoing campus conversations about the future of education in the age of AI.\nTaken together, these sessions aim to foster AI literacy as a collective, community-based practice, grounded in dialogue and respect for diverse pedagogical approaches. By centering both student and faculty perspectives, this project seeks to support more intentional, transparent, and equitable decisions about how generative AI is used in teaching and learning at St. Olaf.\n\nThe generation of the text on this page was partly assisted by ClaudeAI for proofreading and editing.\n\nFor any questions related to this project please contact Fortress Okorie at okorie1@stolaf.edu.\nPeople and Resources"
   },
   {
     "objectID": "information/resources.html",
@@ -81,21 +67,35 @@
     "href": "information/resources.html#interesting-articles",
     "title": "AI Literacy <br> in Education",
     "section": "Interesting Articles",
-    "text": "Interesting Articles\n\nMachines of Loving Grace By Dario Amodei\n\n\nDario Amodei’s take on how AI Could Transform the World for the Better\nNote: Dario Amodei is the CEO of Anthropic\n\n\nThe Adolescnce of Technology By Dario Amodei\n\n\nDario Amodei’s take on Confronting and Overcoming the Risks of Powerful AI\n\n\nSomething Big is Happening By Matt Schumer\n\n\nMatt Schumer makes a case for everyone to be using AI and compares the current moment to the weeks before Covid-19\nNote: Matt Schumer is the CEO of an AI start-up\nThis take in my opinion is overly alarmist\n\n\nHow to Stay Sane in the AI Skills Race By Callum Borchers\n\n\nCallum Borchers is a Wall Street Journal Columnist and Senior Lecturer at Bentley University"
+    "text": "Interesting Articles\n\nMachines of Loving Grace By Dario Amodei\n\n\nDario Amodei’s take on how AI Could Transform the World for the Better\nNote: Dario Amodei is the CEO of Anthropic\n\n\nThe Adolescnce of Technology By Dario Amodei\n\n\nDario Amodei’s take on Confronting and Overcoming the Risks of Powerful AI\n\n\nSomething Big is Happening By Matt Schumer\n\n\nMatt Schumer makes a case for everyone to be using AI and compares the current moment to the weeks before Covid-19\nNote: Matt Schumer is the CEO of an AI start-up\nThis take in my opinion is overly alarmist\n\n\nHow to Stay Sane in the AI Skills Race By Callum Borchers\n\n\nCallum Borchers is a Wall Street Journal Columnist and Senior Lecturer at Bentley University\n\n\nOn The Dangers of Stochastic Parrots By EM Bender et. al, 2021"
   },
   {
     "objectID": "information/resources.html#interesting-books",
     "href": "information/resources.html#interesting-books",
     "title": "AI Literacy <br> in Education",
     "section": "Interesting Books",
-    "text": "Interesting Books\n\nYour Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy By Kashmir Hill\nEmpire of AI: Dreams and Nightmares in Sam Altman’s Open AI By Karen Hao\n\nThe perspectives represented here do not necessarily reflect my opinions.\nThere is no inherent order in which these articles and books are listed - just the order I remembered them in\nIf you come across anything that you think people should be reading please send them to me at okorie1@stolaf.edu so I can include them on this page"
+    "text": "Interesting Books\n\nYour Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy By Kashmir Hill\nEmpire of AI: Dreams and Nightmares in Sam Altman’s Open AI By Karen Hao"
   },
   {
-    "objectID": "survey/index.html",
-    "href": "survey/index.html",
+    "objectID": "information/resources.html#podcasts",
+    "href": "information/resources.html#podcasts",
+    "title": "AI Literacy <br> in Education",
+    "section": "Podcasts",
+    "text": "Podcasts\n\nWhat happens when artificial intelligence quietly reshapes our lives? By Tonya Mosley and Kashmir Hill on NPR\n\n\nKashmir Hill is the author of Your Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy\n\nThe perspectives represented here do not necessarily reflect my opinions.\nThere is no inherent order in which these articles and books are listed - just the order I remembered them in\nIf you come across anything that you think people should be reading please send them to me at okorie1@stolaf.edu so I can include them on this page"
+  },
+  {
+    "objectID": "information/people.html",
+    "href": "information/people.html",
     "title": "AI Literacy <br> in Education",
     "section": "",
-    "text": "General ideas:\n\nAssessing willingness to incorporate AI\nAssessing readiness to incorporate AI\nWhat’s the vibe\nCulture, support, trust (social exchange theory)\nPotential to actually disseminate the survey if we get the provost on board\nMaybe at other peer institutions as well."
+    "text": "Fortress Okorie\nFortress is a junior majoring in Mathematics and Quantitative Economics, with a concentration in Statistics and Data Science. When he’s not thinking about data, he’s usually diving into history and historical fiction, especially the World Wars, the Cold War, and financial history, or exploring public policy, with a particular interest in technology and education. In his (mostly imaginary) free time, he enjoys logic puzzles and detective mystery games. He’s excited to explore the impact of GenAI with you and to be part of the conversation about what it could mean for teaching and learning at St. Olaf.\n\n\n\nProfessor Kim Mandery\nKim studied applied mathematics and statistics at the University of Minnesota - Duluth, and has worked in industry and government sectors prior to coming to academia. Her research dives into the ethical side of AI, inclusive tech design, and anything that makes machine learning more transparent and fun to learn. She spends her free time wrangling three dogs (named after hobbits), playing Magic the Gathering, and doing pottery."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Literacy in Education",
+    "section": "",
+    "text": "The AI Literacy in Education sessions are a series of public-facing discussions developed as part of a Spring 2026 independent study project by Fortress Okorie focused on understanding how generative artificial intelligence is transforming teaching and learning in higher education.\nAs AI tools become increasingly present in academic life, faculty and students alike are navigating new questions about how these technologies should be used (or not) and regulated in classroom settings. This project creates a shared space for dialogue, recognizing that meaningful AI literacy requires not only technical knowledge but also thoughtful reflection on teaching pedagogy, ethics, and personal and institutional values.\nAcross three sessions, participants will explore both practical and conceptual dimensions of generative AI in education. The first session, GenAI and the Future of Teaching and Learning, examines how AI is already reshaping classroom practices and the ways knowledge is created, communicated, and assessed. Guided in part by ideas from Ethan Mollick’s Co-Intelligence, the discussion invites participants to consider how AI might augment or transform teaching methods and student learning, without requiring prior familiarity with the material.\nThe second session, Ethics, Trust, and Transparency in GenAI Use, focuses on the ethical and relational challenges raised by AI in academic contexts. This session continues to be guided by ideas from Mollick’s Co-Intelligence, as well as articles by Tyler Kingkade of NBC and Cornelia Walther of the Wharton School of Business. Participants will tackle questions centered around responsible use, disclosure, and academic integrity, as well as the role of trust between students and faculty. This session emphasizes the importance of fairness, accountability, and clear communication as institutions adapt to rapidly evolving technologies.\nThe final session, Building a Shared Framework for GenAI at St. Olaf, serves as a collaborative workshop in which students and faculty work together to articulate discipline-specific needs, share emerging practices, and voice concerns. The hope is to enable all voices to contribute constructively to ongoing campus conversations about the future of education in the age of AI.\nTaken together, these sessions aim to foster AI literacy as a collective, community-based practice, grounded in dialogue and respect for diverse pedagogical approaches. By centering both student and faculty perspectives, this project seeks to support more intentional, transparent, and equitable decisions about how generative AI is used in teaching and learning at St. Olaf.\n\nThe generation of the text on this page was partly assisted by ClaudeAI for proofreading and editing.\n\nFor any questions related to this project please contact Fortress Okorie at okorie1@stolaf.edu.\nPeople and Resources"
   },
   {
     "objectID": "discussions/discussion1.html",
@@ -140,38 +140,45 @@
     "text": "Additional Resources"
   },
   {
-    "objectID": "discussions/discussion3.html",
-    "href": "discussions/discussion3.html",
-    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "objectID": "discussions/discussion2.html",
+    "href": "discussions/discussion2.html",
+    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
     "section": "",
-    "text": "This final session is a collaborative brainstorming workshop bringing together students and faculty to co-create visions for responsible and effective GenAI use at St. Olaf. Participants will share discipline-specific needs, successful practices, and concerns, and work toward developing a set of common core principles for AI use across courses and departments. The ideas generated will be synthesized into a publicly shared document as a product of this project, aiming to contribute constructively to ongoing campus conversations about AI rather than replace existing efforts."
+    "text": "This session centers on the ethical challenges of using generative AI in classroom/learning settings. We will discuss issues of trust between students and faculty, responsible use of AI tools, and the ethics of disclosure when syllabi lack clear AI policies. Participants will consider questions such as: When is AI use appropriate? How should expectations be communicated? What does academic integrity mean in an age of AI assistance? Through guided discussion, we will explore how classrooms can balance innovation with fairness, accountability, and mutual trust."
   },
   {
-    "objectID": "discussions/discussion3.html#overview",
-    "href": "discussions/discussion3.html#overview",
-    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "objectID": "discussions/discussion2.html#overview",
+    "href": "discussions/discussion2.html#overview",
+    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
     "section": "",
-    "text": "This final session is a collaborative brainstorming workshop bringing together students and faculty to co-create visions for responsible and effective GenAI use at St. Olaf. Participants will share discipline-specific needs, successful practices, and concerns, and work toward developing a set of common core principles for AI use across courses and departments. The ideas generated will be synthesized into a publicly shared document as a product of this project, aiming to contribute constructively to ongoing campus conversations about AI rather than replace existing efforts."
+    "text": "This session centers on the ethical challenges of using generative AI in classroom/learning settings. We will discuss issues of trust between students and faculty, responsible use of AI tools, and the ethics of disclosure when syllabi lack clear AI policies. Participants will consider questions such as: When is AI use appropriate? How should expectations be communicated? What does academic integrity mean in an age of AI assistance? Through guided discussion, we will explore how classrooms can balance innovation with fairness, accountability, and mutual trust."
   },
   {
-    "objectID": "discussions/discussion3.html#meeting-date-and-location",
-    "href": "discussions/discussion3.html#meeting-date-and-location",
-    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "objectID": "discussions/discussion2.html#meeting-date-and-location",
+    "href": "discussions/discussion2.html#meeting-date-and-location",
+    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
     "section": "Meeting Date and Location",
-    "text": "Meeting Date and Location\nThursday, March 19th in RNS 356 from 11:30 to 12:30 CST\nNote: Due to scheduling difficulties this session will occur over a SOAR session."
+    "text": "Meeting Date and Location\nThursday, March 5th in RNS 356 from 11:30 to 12:30 CST\nNote: This is not during either SOAR discussions nor faculty meetings"
   },
   {
-    "objectID": "discussions/discussion3.html#discussion-questions",
-    "href": "discussions/discussion3.html#discussion-questions",
-    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
+    "objectID": "discussions/discussion2.html#reading-materials",
+    "href": "discussions/discussion2.html#reading-materials",
+    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
+    "section": "Reading Materials",
+    "text": "Reading Materials\n\nTo avoid accusations of AI cheating, college students are turning to AI By Tyler Kingkade, Jan 2026\nWhy AI Disclosure Matter at Every Level By Cornelia Walther, Jan 2026\nCo-intelligence: living and working with AI by Ethan Mollick"
+  },
+  {
+    "objectID": "discussions/discussion2.html#discussion-questions",
+    "href": "discussions/discussion2.html#discussion-questions",
+    "title": "Session 2: Ethics, Trust, and Transparency in GenAI Use",
     "section": "Discussion Questions",
-    "text": "Discussion Questions\n\nCall to Action and Final Reflection\nMollick ends the book with a call to action:\n\n“The thing about a widely applicable technology is that decisions about how it is used are not limited to a small group of people… We can’t wait for decisions to be made for us, and the world is advancing too fast to remain passive” (210).\n\nAssume Mollick is correct and that you play a role in shaping what AI means for your institution and for higher education.\n\nWhat will you commit to doing in the next weeks and months to respond to this call?\nHow can we collectively support one another in doing this work?"
+    "text": "Discussion Questions\n\nTrust, Assessment, and Academic Integrity\nThere is no reliable way to detect whether a piece of text is AI-generated. Research has shown that AI detectors have extremely high false positive rates, especially for non-native English speakers.\n\nHow do we maintain trust between faculty and students in a world where, unless work is produced in class, there is no accurate way to determine whether it is human-created?\nFor classes where knowledge cannot be meaningfully assessed through timed exams, what are some broad-stroke ways to ensure core learning objectives are being met?\n\nFeel free to be general or discipline-specific.\n\nEvery school and instructor must define acceptable AI use.\n\nChoose a specific discipline and describe:\n\nWhat acceptable AI use might look like\n\nWhat unacceptable AI use would be\n\n\n\n\n\n\nAI, Creativity, and Meaningful Work\nIn his discussion of AI as a creative tool, Mollick argues:\n\n“A lot of work is time-consuming by design. In a world in which the AI gives an instant, pretty good, near-universally accessible shortcut, we’ll soon face a crisis of meaning in creative work of all kinds. This is, in part, because we expect creative work to take careful thought and revision, but also that time often operates as a stand-in for work” (120).\n\n\nIn general, if time is no longer a reliable proxy for effort, what might be some of the markers we should use to assess:\n\nQuality?\nSincerity?\nOthers?\n\nHow does this translate to an academic context?\n\n\n\n\nThe Rise of Humanizer AI’s\nIn a recent NBC News article titled “To avoid accusations of AI cheating, college students are turning to AI”, Tyler Kingkade explores how some college students who had been falsely accused of using AI to cheat now turn to so-called “Humanizer AIs” to “dumb down” their writing. As one of them put it,\n\n“I have to do whatever I can to just show I actually write my homework myself.”\n\n\nIf a student writes their own work and then runs it through a “humanizer” to avoid being falsely flagged, is that cheating? What, exactly, would make it unethical?\nThe article suggests that students now feel responsible for proving that their work is human-generated rather than institutions proving that it is not. What does this shift in burden of proof mean for trust between students and faculty?\n\nOne of the students featured in the article who had resorted to using AI detectors said:\n\n“But it does feel like my writing isn’t giving insight into anything — I’m writing just so that I don’t flag those AI detectors,”\n\n\nIf students routinely use tools to mask their writing style, what happens to the idea of a “student voice”?\n\n\n\nGeneral Questions\n\nIf we accept the premise that detection is unreliable and that students will adapt strategically, what kinds of assignments would make “humanizer” tools unnecessary? For classes in your discipline, what would an assessment look like that cannot be meaningfully “humanized” by AI?\nMany of the tools mentioned in the article are paid services. How might unequal access to “humanizers” and detection-avoidance strategies deepen existing educational inequalities? Should universities intervene in this market, and if so, how?"
   },
   {
-    "objectID": "discussions/discussion3.html#additional-resources",
-    "href": "discussions/discussion3.html#additional-resources",
-    "title": "Session 3: Building a Shared Framework for GenAI at St. Olaf",
-    "section": "Additional Resources",
-    "text": "Additional Resources"
+    "objectID": "assessments/index.html",
+    "href": "assessments/index.html",
+    "title": "AI Literacy <br> in Education",
+    "section": "",
+    "text": "General ideas:\n\nAI Proofing: Can We and Should We? Again, going back to the idea of (re)building trust in the classroom.\nPotential call for assessments at a faculty meeting."
   }
 ]
