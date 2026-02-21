@@ -20,11 +20,18 @@ The following are things that I found thought provoking in my reading about AI.
 4. [How to Stay Sane in the AI Skills Race](https://www.wsj.com/tech/ai/how-to-stay-sane-in-the-ai-skills-race-d44b6c97) *By Callum Borchers* 
 - Callum Borchers is a Wall Street Journal Columnist and Senior Lecturer at Bentley University 
 
+5. [On The Dangers of Stochastic Parrots]( https://dl.acm.org/doi/10.1145/3442188.3445922) *By EM Bender et. al, 2021*
+
 ## Interesting Books
 
 1. [Your Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy](https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/) *By Kashmir Hill* 
 
 2. [Empire of AI: Dreams and Nightmares in Sam Altman's Open AI](https://karendhao.com/) *By Karen Hao*
+
+## Podcasts 
+
+1. [What happens when artificial intelligence quietly reshapes our lives?](https://www.npr.org/2025/05/21/nx-s1-5405608/what-happens-when-artificial-intelligence-quietly-reshapes-our-lives) *By Tonya Mosley and Kashmir Hill on NPR* 
+- Kashmir Hill is the author of [Your Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy](https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/)
 
 The perspectives represented here do not necessarily reflect my opinions. 
 
