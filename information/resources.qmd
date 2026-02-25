@@ -20,7 +20,10 @@ The following are things that I found thought provoking in my reading about AI.
 4. [How to Stay Sane in the AI Skills Race](https://www.wsj.com/tech/ai/how-to-stay-sane-in-the-ai-skills-race-d44b6c97) *By Callum Borchers* 
 - Callum Borchers is a Wall Street Journal Columnist and Senior Lecturer at Bentley University 
 
-5. [On The Dangers of Stochastic Parrots]( https://dl.acm.org/doi/10.1145/3442188.3445922) *By EM Bender et. al, 2021*
+5. [On The Dangers of Stochastic Parrots]( https://dl.acm.org/doi/10.1145/3442188.3445922) *By EM Bender et. al, 2021* 
+
+6. [AI Is Killing The Cover Letter](https://knowledge.wharton.upenn.edu/article/ai-is-killing-the-cover-letter/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=2-25-2026&utm_content=AI_Is_Killing_the_Cover_Letter) *By Judd Kessler*
+- Judd Kessler is a Professor in the Business Economics and Public Policy Department at the University of Pennsylvania's Wharton School of Business. 
 
 ## Interesting Books
 
