@@ -84,3 +84,19 @@ One of the students featured in the article who had resorted to using AI detecto
 
 
 ### Post-Session Reflection 
+
+As I reflected on our conversation in this second session, I realised that it was probably easiest to summarise the discussion in the room around the three themes below. 
+
+### 1. Transaction Costs and Incentives: This Isn't New, So Why Does It Feel Different? 
+One thing we can all agree on - cheating and plagiarism are not new phenomena. Students have always been able to pay others to write their papers, copy work, or find ways around assessments. And yet there was broad agreement that something has genuinely shifted. Something is definitely different about the *way* it’s happening today. 
+To put in economic terms (I am *also* an econ major after all), the transaction costs of cheating have fallen dramatically. There is far less friction. What once required effort, money, or risk now takes seconds. When incentives already exist to cut corners and the barriers to doing so collapse, the behaviour follows. The boundaries around what even constitutes cheating have also blurred, making it harder to build shared norms around honesty when the lines themselves are contested.
+
+### 2. Current Strategies Are Losing Strategies in the Long Run
+An interesting proposition was put to the room - every tool or approach currently being used to detect or deter AI-assisted work is, structurally, a losing bet. AI detection tools carry high false positive rates and cause disproportionate harm to non-native English speakers. The downstream consequences are immense: students falsely accused of using AI have begun running their own genuine work through "humanizer" tools just to avoid being flagged. The idea of a student voice, is being eroded on all sides - both by the students who use AI to generate their work and by the humanizer tools that some students now turn to, to avoid having their authentic work flagged. 
+Meanwhile, the technology will only improve, including its ability to replicate individual student voice, which means even the conversational and relational heuristics that experienced educators rely on will erode over time. There is a real risk that the majority of faculty non-instructional time gets consumed by policing suspected misuse. That is not what anyone came to teaching to do, and it makes the environment worse for everyone. Formal institutional policies banning the use of AI detectors were raised as one concrete step worth considering.
+
+### 3. Pedagogical Shifts: Documentation as the Norm
+If the baseline assumption is that students want to learn, then the right question is not *are they cheating* but *why are they turning to AI in the first place?*. The answers likely include: not seeing the purpose of an assignment, feeling under-supported, managing stress, or simply operating with a different sense of what tools are legitimate. Rooting out dishonesty is a losing frame, our focus should be on realigning incentives. 
+This points toward a broader rethink of assessment. If AI can easily complete the tasks being set, it may be because those tasks were never measuring much to begin with. Assessments built around defining or describing have a low ceiling; assessments that require students to document their process, reasoning, and reflection at each stage are inherently harder to outsource: and more educationally valuable regardless. Some assessments may not lend themselves to “reflection” in the traditional sense, but documentation of process is itself a form of reflection. Having to justify to yourself why you used particular techniques, constructs, etc at each step is a way to double check how well you as a student actually understand those things and reinforce your learning over time. It can be tedious, but worth it. 
+
+
