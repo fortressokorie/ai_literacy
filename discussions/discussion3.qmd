@@ -21,9 +21,6 @@ Note: Due to scheduling difficulties this session will occur over a SOAR session
 
 Our goal with this activity is to create common-core recommendations for identifying courses in which Generative AI may be useful. The goal is to have these recommendations be rooted in pedagogy across disciplines.
 
-
-Mollick ends the book with a call to action:
-
 1. We define a tool as **useful** if it genuinely assists its user in developing an understanding of key ideas in a content area, how those key ideas are connected, or both.
 a. Using the definition of useful above, think of at least one course, either one you’ve taken or one you’ve taught, where a GenAI tool **would not be useful**. What about this course, or its learning objectives, makes that the case?
 b. Now, think of at least one course, either one you’ve taken or one you’ve taught, where a GenAI tool **could be useful**. What about this course, or its learning objectives, makes that the case?
