@@ -36,7 +36,29 @@ To get started on those common-core principles, if you have time, please chat ab
 
 >Students should always be given the option to opt out of using GenAI tools. 
 
-### Additional Resources
+## Post-Session Reflection 
 
-### Post-Session Reflection
+*Note: Due to time constraints and the depth of the conversation, we didn’t get through all the prepared questions. The conversation ranged broadly, and the themes below reflect where it naturally went.*
+
+### On the framing of the question 
+
+The group pushed back productively on the initial framing. Rather than asking where GenAI *would not* be useful, participants felt the more accurate question is where it would be *more or less* useful because it's difficult to imagine a course where there isn't *some* meaningful application. That said, the original framing was seen as valuable precisely because it forced participants to confront that assumption directly, rather than arriving at it passively. 
+
+### On what "useful" looks like across disciplines 
+
+The group agreed that how GenAI is used will almost necessarily vary by subject area. However, a consensus was reached that certain grounding questions can serve as a useful starting point across disciplines. For example:
+
+> *If I had infinite time, what would I do for each of my students?*
+
+Educators were encouraged to reflect on that ideal and then ask how GenAI tools might close the gap between that vision and what's practically possible.
+
+### Practical guidelines for classroom use 
+
+Two principles emerged for educators thinking about incorporating GenAI:
+
+1. **Set clear parameters and explain them:** If you plan to use GenAI in your course, define explicitly how it should and shouldn't be used. You, as the educator, are the arbiter of how it serves your learning objectives. Students benefit from understanding not just the rules, but the reasoning behind them.
+
+2. **Apply the "expert analysis" test:** A central question that both students and educators should ask before using a GenAI tool for any task is: *Am I in a position to critically and expertly analyze the output?* If the answer is no, that's a signal that it isn't the right moment to use it. As an educator, you should be able to infer based on how you structure your class if students are at a point where they should be able to pass the “expert analysis” test for any given task, and only at those points would it make sense to incorporate a GenAI tool for that specific task. 
+
+
 
