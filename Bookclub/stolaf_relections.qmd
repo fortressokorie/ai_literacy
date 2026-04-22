@@ -1,0 +1,68 @@
+# Session 1 
+
+## Post-Session Reflection
+
+In our first session, participants divided into small groups to explore four key themes: changes already observed in the classroom, a re-evaluation of Mollick's Rules for Working with AI, the concept of "The Tyranny of the Button," and the role of Subject Matter Expertise.
+
+### What Changes Are We Already Seeing in the Classroom?
+There was general agreement that while some improper use of GenAI tools by students does occur, widespread cheating at St. Olaf does not appear to be a significant problem (at least not yet). That said, some faculty are already adjusting how they assess students in response to that possibility. The most common shift has been a return to in-person assessments. Across disciplines, students reported that at least some of their classes have moved away from take-home final essays or exams. Faculty expressed frustration with having to return to in-person assessments, noting that take-home assessments allow for more interesting, open-ended questions and give students the time to engage deeply with difficult material in ways that timed, in-person settings simply do not.
+One participant reflected on Mollick's comments about AI tutors, pointing out that a fundamental aspect of learning is being in a shared space with peers, all struggling through a concept together, and coming to understand that failure is a natural and valuable part of the process. The concern raised was that an AI tutor cannot replicate that experience for students who have not yet developed a tolerance for failure in the way a human tutor/classroom can. There was also broad agreement that the GenAI models most people have access to, the free versions, tend to affirm and agree with users rather than push back, which can lead students down the wrong path. A human tutor, by contrast, can offer thoughtful resistance while remaining encouraging.
+This naturally led to a discussion of Benjamin Bloom's 1984 paper, "The 2 Sigma Problem," which demonstrated that students receiving one-to-one tutoring performed two standard deviations better than those in conventional classroom settings. The question the group raised in response was: *what are students performing toward, and for whom?* Learning has both quantitative dimensions (anyone who has ever taken a standardized test is familiar) and qualitative ones, such as failure tolerance and social interaction. While we can attempt to measure the former, the latter is far more difficult to capture, and many so-called “quantitative measures of qualitative traits are generally weak proxies. 
+The group also discussed how GenAI tools have made it easier for students to act on their underlying incentive structures. Consider the difference between a math major focused primarily on earning strong grades as a signal to future employers, and a math major who intends to pursue graduate study and needs a genuine mastery of the subject. These two students have very different motivations. In the past, even the grade-focused student had to put in significant effort to achieve that signalling effect, and even deciding to cheat required a lot more effort than it does today. With the availability of GenAI tools, the required effort is reduced considerably. 
+
+### Reassessing Mollick's Rules for Working with AI
+Of Mollick's four rules, the one that generated the least controversy was "Assume this is the worst AI you will ever use." The rule "Treat AI like a person," however, was far more contentious. To paraphrase one participant: for perhaps the first time in human history, we have machines capable of mimicking our language with apparent fluency, and treating those machines as people would be a serious mistake with real potential for harm. We are already seeing the consequences in the rise of [AI romantic relationships, AI therapists, and other forms of problematic attachment](https://ifstudies.org/blog/counterfeit-connections-the-rise-of-ai-romantic-companions-). We should instead treat AI like a parrot. When you interact with a parrot, and that parrot says something wise, you don’t (or at the very least you shouldn’t) go “that’s a really wise parrot”, you generally wonder something along the lines of “how was that parrot trained?” This is precisely the stance we should take with GenAI - a curiosity about its training data to understand its output. For more on this, check out [“On the Dangers of Stochastic Parrots” by Emily Bender et al.](https://dl.acm.org/doi/10.1145/3442188.3445922). 
+The room was roughly split on the rule "Bring AI into everything you do." Some argued it is the most effective way to discover which tasks AI genuinely helps with, while others maintained that certain activities should be considered fundamentally human — a theme I hope to explore more fully in the second session.
+
+### On the "Tyranny" of the Blank Page
+The conversation in the room implied that describing the process of wrestling with “the blank page” as tyrannical was inherently problematic and an issue of perspective. To some, the blank page represents possibility - at that point, anything could still happen. When we default to GenAI for idea generation, we most definitely lose something unique about the way we think about and approach issues - the anchoring on first ideas is very real. Even in the cases where AI does boost individual creativity, it limits group creativity and how teams think because [everyone is generating similar ideas as researchers at the Wharton School of Business found](https://knowledge.wharton.upenn.edu/article/does-ai-limit-our-creativity/). As one of my teachers put it to me once, there’s something to be said for learning to “sit in the suck” and seeing what comes of it. 
+
+
+What if we defined the prompt as the creative idea? This conversation generated quite a bit of conversation about whether prompting is creative (it can be), whether you can trademark a prompt ([short answer - it depends](https://www.linkedin.com/pulse/can-ai-prompts-copyrighted-trademarked-bhupendra-jat-n17hf/)), and whether you own the output of a particularly creative prompt. The last question really dovetailed into the ethics of these models - they're all trained on something, and if you don’t own the underlying “something”, you probably don’t own the output of your prompt either. For more on ethics, join us on March 5th! (yes I am a shameless self-promoter, deal with it.) 
+
+### Co-intelligence and Subject Matter Expertise
+We ran out of time before fully addressing this theme, but based on the discussion I was able to observe, a central challenge is determining if and when students have developed sufficient expertise to meaningfully engage with GenAI tools in their coursework. For many subject areas, upper-level mathematics, for example, the versions of these tools available to most people are not yet capable of doing much more than serving as a cautionary tale about the dangers of outsourcing your thinking to GenAI.
+
+# Session 2 
+
+### Post-Session Reflection 
+
+As I reflected on our conversation in this second session, I realised that it was probably easiest to summarise the discussion in the room around the three themes below. 
+
+### 1. Transaction Costs and Incentives: This Isn't New, So Why Does It Feel Different? 
+One thing we can all agree on - cheating and plagiarism are not new phenomena. Students have always been able to pay others to write their papers, copy work, or find ways around assessments. And yet there was broad agreement that something has genuinely shifted. Something is definitely different about the *way* it’s happening today. 
+To put in economic terms (I am *also* an econ major after all), the transaction costs of cheating have fallen dramatically. There is far less friction. What once required effort, money, or risk now takes seconds. When incentives already exist to cut corners and the barriers to doing so collapse, the behaviour follows. The boundaries around what even constitutes cheating have also blurred, making it harder to build shared norms around honesty when the lines themselves are contested.
+
+### 2. Current Strategies Are Losing Strategies in the Long Run
+An interesting proposition was put to the room - every tool or approach currently being used to detect or deter AI-assisted work is, structurally, a losing bet. AI detection tools carry high false positive rates and cause disproportionate harm to non-native English speakers. The downstream consequences are immense: students falsely accused of using AI have begun running their own genuine work through "humanizer" tools just to avoid being flagged. The idea of a student voice, is being eroded on all sides - both by the students who use AI to generate their work and by the humanizer tools that some students now turn to, to avoid having their authentic work flagged. 
+Meanwhile, the technology will only improve, including its ability to replicate individual student voice, which means even the conversational and relational heuristics that experienced educators rely on will erode over time. There is a real risk that the majority of faculty non-instructional time gets consumed by policing suspected misuse. That is not what anyone came to teaching to do, and it makes the environment worse for everyone. Formal institutional policies banning the use of AI detectors were raised as one concrete step worth considering.
+
+### 3. Pedagogical Shifts: Documentation as the Norm
+If the baseline assumption is that students want to learn, then the right question is not *are they cheating* but *why are they turning to AI in the first place?*. The answers likely include: not seeing the purpose of an assignment, feeling under-supported, managing stress, or simply operating with a different sense of what tools are legitimate. Rooting out dishonesty is a losing frame, our focus should be on realigning incentives. 
+This points toward a broader rethink of assessment. If AI can easily complete the tasks being set, it may be because those tasks were never measuring much to begin with. Assessments built around defining or describing have a low ceiling; assessments that require students to document their process, reasoning, and reflection at each stage are inherently harder to outsource: and more educationally valuable regardless. Some assessments may not lend themselves to “reflection” in the traditional sense, but documentation of process is itself a form of reflection. Having to justify to yourself why you used particular techniques, constructs, etc at each step is a way to double check how well you as a student actually understand those things and reinforce your learning over time. It can be tedious, but worth it. 
+
+# Session 3
+
+## Post-Session Reflection 
+
+*Note: Due to time constraints and the depth of the conversation, we didn’t get through all the prepared questions. The conversation ranged broadly, and the themes below reflect where it naturally went.*
+
+### On the framing of the question 
+
+The group pushed back productively on the initial framing. Rather than asking where GenAI *would not* be useful, participants felt the more accurate question is where it would be *more or less* useful because it's difficult to imagine a course where there isn't *some* meaningful application. That said, the original framing was seen as valuable precisely because it forced participants to confront that assumption directly, rather than arriving at it passively. 
+
+### On what "useful" looks like across disciplines 
+
+The group agreed that how GenAI is used will almost necessarily vary by subject area. However, a consensus was reached that certain grounding questions can serve as a useful starting point across disciplines. For example:
+
+> *If I had infinite time, what would I do for each of my students?*
+
+Educators were encouraged to reflect on that ideal and then ask how GenAI tools might close the gap between that vision and what's practically possible.
+
+### Practical guidelines for classroom use 
+
+Two principles emerged for educators thinking about incorporating GenAI:
+
+1. **Set clear parameters and explain them:** If you plan to use GenAI in your course, define explicitly how it should and shouldn't be used. You, as the educator, are the arbiter of how it serves your learning objectives. Students benefit from understanding not just the rules, but the reasoning behind them.
+
+2. **Apply the "expert analysis" test:** A central question that both students and educators should ask before using a GenAI tool for any task is: *Am I in a position to critically and expertly analyze the output?* If the answer is no, that's a signal that it isn't the right moment to use it. As an educator, you should be able to infer based on how you structure your class if students are at a point where they should be able to pass the “expert analysis” test for any given task, and only at those points would it make sense to incorporate a GenAI tool for that specific task. 

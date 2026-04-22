@@ -13,33 +13,45 @@ website:
     search: true
 
     left:
+      - text: Bookclub
+        menu: 
+          - href: Bookclub/
+            text: How to start the Bookclub
+          - href: Bookclub/schedule.qmd 
+            text: Schedule
+          - href: Bookclub/discussion1.qmd
+            text: Session 1
+          - href: Bookclub/discussion2.qmd
+            text: Session 2
+          - href: Bookclub/discussion3.qmd
+            text: Session 3 
+          - href: Bookclub/stolaf_reflections.qmd 
+            text: Reflections from the St. Olaf community conversations 
+      
+      - text: Surveys
+        menu: 
+          - href: survey/
+            text: How to use the surveys
+          - href: survey/attitudes.qmd 
+            text: Attitudes towards GenAI
+          - href: survey/current_uses.qmd
+            text: Current Uses of GenAI
+          - href: survey/readiness.qmd
+            text: Readiness to incorporate GenAI
 
-      - href: discussions/schedule.qmd 
-        text: Schedule
 
-      - href: discussions/discussion1.qmd
-        text: Session 1
-
-      - href: discussions/discussion2.qmd
-        text: Session 2
-
-      - href: discussions/discussion3.qmd
-        text: Session 3 
-
-      - href: information/resources.qmd
+      - href: about/resources.qmd
         text: Resources
-
-     # - href: survey/
-    #    text: Quantifying Readiness
-
-     # - href: assessments/
-      #  text: Reassessing Assessments
 
       
 
     right:
-      - href: information/people.qmd
-        text: People
+      - text: About
+        menu: 
+        - href: about/people.qmd
+          text: People
+        - href: about/purpose.qmd
+          text: How this came about
             
       - icon: github
         href: https://github.com/chefs-kiss/ai_literacy

@@ -1,0 +1,38 @@
+---
+title: "Session 3: Building a Shared Framework for GenAI at St. Olaf"
+format: html
+---
+## Overview 
+This final session is a collaborative brainstorming workshop bringing together 
+students and faculty to co-create visions for responsible and effective GenAI use at St.
+Olaf. Participants will share discipline-specific needs, successful practices, and 
+concerns, and work toward developing a set of common core principles for AI use across 
+courses and departments. The ideas generated will be synthesized into a publicly shared 
+document as a product of this project, aiming to contribute constructively to ongoing 
+campus conversations about AI rather than replace existing efforts.
+
+
+## Meeting Date and Location
+**Thursday, March 19th in RNS 356 from 11:30 to 12:30 CST**
+
+Note: Due to scheduling difficulties this session will occur over a SOAR session.
+
+## Activity
+
+Our goal with this activity is to create common-core recommendations for identifying courses in which Generative AI may be useful. The goal is to have these recommendations be rooted in pedagogy across disciplines.
+
+1. We define a tool as **useful** if it genuinely assists its user in developing an understanding of key ideas in a content area, how those key ideas are connected, or both.
+a. Using the definition of useful above, think of at least one course, either one you’ve taken or one you’ve taught, where a GenAI tool **would not be useful**. What about this course, or its learning objectives, makes that the case?
+b. Now, think of at least one course, either one you’ve taken or one you’ve taught, where a GenAI tool **could be useful**. What about this course, or its learning objectives, makes that the case?
+
+
+
+2. In Q1, you may have discussed courses in various disciplines; in fact, we hope you did. Now, identify, if there exist, any commonalities among the courses for which genAI tools are: 
+a. Not useful 
+b. Useful 
+
+
+To get started on those common-core principles, if you have time, please chat about the following proposed principle:
+
+>Students should always be given the option to opt out of using GenAI tools. 
+
