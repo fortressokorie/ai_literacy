@@ -1,0 +1,57 @@
+## Attitudes Toward GenAI use
+
+The questions here are designed to help you understand the current attitudes people may have toward GenAI use in academic spaces. It **does not** help you determine *why* people hold the attitudes they do. What it does is help you understand what beliefs people are bringing into the conversation and enable you to navigate the fact that people are coming in with different attitudes.
+
+### Students
+
+**1. Do you think the following reasons explain why students use GenAI in ways that violate academic integrity policies?**
+*(Question format: Grid with Yes/No options)*
+
+- Pressure to get good grades
+- Lack of time due to work, family, other obligations
+- Students don't really care about academic integrity policies
+- Struggling to understand course content
+- Lack of interest in course content
+- Lack of confidence in their abilities
+- Unclear policies/expectations/guidelines from faculty about what constitutes cheating with GenAI
+
+**2. How would you feel if professors used (or are using) GenAI to support their teaching?**
+*(Question format: Likert Scale)*
+
+- Very negative — I believe it harms instructional quality and/or value.
+- Somewhat negative — I am concerned about the quality of the instruction from the faculty.
+- Somewhat positive — I am open to it if it is used thoughtfully and transparently.
+- Very positive — I believe it could make instruction more relevant and efficient.
+
+**3. To what extent do you agree with each of the following statements?**
+*(Question format: Likert scale — Disagree / Somewhat Disagree / Somewhat Agree / Agree)*
+
+- I believe I will need to know how to use generative AI tools for future jobs/careers.
+- I believe it IS the responsibility of the institution to teach students how to interface with generative AI tools effectively.
+- I believe we need an institution-wide policy on the use of generative AI tools.
+
+### Faculty
+
+**1. To what extent do you agree with each of the following statements?**
+*(Question format: Likert scale grid — Disagree / Somewhat Disagree / Somewhat Agree / Agree)*
+
+- I believe students will need to know how to use generative AI tools for future jobs/careers.
+- I believe it IS the responsibility of the institution (and thereby MY responsibility) to teach students how to interface with generative AI tools effectively.
+- I believe generative AI tools will facilitate instruction.
+- I believe we need an institution-wide policy on the use of generative AI tools.
+
+**2. As an instructor, have you communicated an AI policy in your classes?**
+*(That policy can be institution-wide or specific to you.)*
+
+- Yes
+- No
+
+::: {.callout-note}
+The following question appears only if the answer above is **Yes**.
+:::
+
+**3. Which of the following statements best captures the AI policy you communicated to your classes?**
+
+- GenAI tools are completely forbidden. Use of GenAI for any reason is equivalent to academic dishonesty.
+- GenAI tools are allowed in very specific use cases. You, as the instructor, will communicate when students can use GenAI in the course.
+- Students are allowed to use GenAI at their discretion, but they must communicate/cite when they do so and reflect on why they felt it was necessary.

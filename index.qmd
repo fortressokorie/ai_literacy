@@ -4,10 +4,41 @@ title: "AI Literacy in Education"
 
 ![](static/logo_3.png)
 
-# Objectives 
+## Welcome
 
-# User 
+This website grew out of a conversation series on AI Literacy in Education held at St. Olaf College. 
+It is designed to help people at other institutions start the same conversation and to give you the tools to do it well.
 
-# How to use this website
+## Objectives
+
+The goal of this series was simple: to bring students and faculty together for an honest, structured conversation about generative AI tools: the role they currently play and the role(s) they could/should/shouldn’t play in teaching and learning. 
+
+## Who Should Use This Website
+
+This website is for anyone who wants to hold similar conversations at their own institution, 
+whether you are a faculty member, an administrator, a student organizer, or anyone else trying to 
+move your community toward a more thoughtful, shared understanding of GenAI in education. You do not need to replicate the series exactly. Use as much or as little as is useful for your context.
+
+## How to Use This Website
+
+In an ideal world, you would move through the materials in roughly this order:
+
+**Start with the Survey.** Before anything else, use the survey to take stock of where your community is. It will help you understand the attitudes and experiences people are bringing into the room so you can design conversations that meet them there.
+
+**Work through the Discussion Sessions in order.** Each session builds on the last:
+
+- **Session 1** helps your community understand where it currently stands and where it might be 
+heading. 
+- **Session 2** moves into deeper territory: ethics, trust, and transparency. Rather than jumping 
+to rules, it asks the prior question: *What values should be guiding us?*
+- **Session 3** translates those values into action. It is a practical session focused on developing 
+concrete guidelines for how individual faculty members or perhaps your institution at large can approach GenAI in teaching and learning.
+
+**Read about how it went at St. Olaf.** If you want a sense of what these conversations look like 
+In practice — what came up, what surprised us, what we would do differently — you can read about how the series unfolded in our own community.
+
+**Explore the Resources tab.** Whether you are new to GenAI or looking to go deeper, the Resources tab hosts a curated list of free materials to help you and your community better understand and use these tools.
+
+
 
 ![](static/logo_1.png)

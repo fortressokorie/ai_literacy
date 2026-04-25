@@ -1,0 +1,107 @@
+## Current Uses of GenAI
+
+The questions here are designed to help you understand how people are currently utilizing GenAI tools as students and as faculty members. It complements the information that the questions in the attitudes section give you to piece together a richer portrait of an individual's attitudes and readiness to utilize GenAI tools in educational settings.
+
+### Students
+
+**1. Have you used GenAI tools in your coursework?**
+
+- Yes
+- No
+
+::: {.callout-note}
+The following questions appear only if the answer above is **Yes**.
+:::
+
+**2. Which of the following GenAI tools have you used in your coursework?**
+*(Question format: Grid with Yes/No options)*
+
+- ChatGPT
+- Google Gemini
+- Claude AI
+- Microsoft Copilot
+- Notebook LM
+- Grammarly AI
+
+**3. In which of the following ways have you used GenAI tools in your coursework?**
+*(Question format: Grid with Yes/No options)*
+
+- Brainstorming ideas
+- Editing written work
+- Using it like a search engine
+- Generating summaries of readings
+- Asking it questions like a tutor
+- Developing outlines for papers
+- Using it to generate practice questions for quizzes and exams
+- Generating citations
+- Completing assignments
+- Generating code
+
+**4. Was the way you used GenAI tools in your coursework approved by your faculty member?**
+
+- Yes
+- No
+
+::: {.callout-note}
+The following question appears only if the answer above is **No**.
+:::
+
+**5. Why did you use the GenAI tool in your coursework if it wasn't approved by faculty?**
+*(Question format: Free response)*
+
+---
+
+::: {.callout-note}
+The following question appears only if Q1 = **No**.
+:::
+
+**2. Why have you not used GenAI in your coursework?**
+*(Question format: Free response)*
+
+### Faculty
+
+**1. Have you ever used GenAI tools to assist you in your work as a teacher?**
+
+- Yes
+- No
+
+::: {.callout-note}
+The following questions appear only if the answer above is **Yes**.
+:::
+
+**2. Which of the following GenAI tools have you used to assist in your work as a teacher?**
+*(Question format: Grid with Yes/No options)*
+
+- ChatGPT
+- Google Gemini
+- Claude AI
+- Microsoft Copilot
+- Notebook LM
+- Grammarly AI
+
+**3. In what ways have you, as an instructor, incorporated the use of GenAI tools into your teaching workflow?**
+*(Question format: Grid with Yes/No options)*
+
+- Speed up the preparation of course materials
+- Generate new instructional material
+- Modifying or adapting existing materials to meet individual student needs
+- Developing assessments
+- Grading or giving feedback on student work
+
+**4. For each use that you responded Yes to, how often do you use it?**
+*(Question format: Likert scale grid — Some of the time / Most of the time / All of the time)*
+
+- Speed up the preparation of course materials
+- Generate new instructional material
+- Modifying or adapting existing materials to meet individual student needs
+- Developing assessments
+- Grading or giving feedback on student work
+
+---
+
+::: {.callout-note}
+The following question appears only if Q1 = **No**.
+:::
+
+**2. Why have you not used GenAI tools to assist you in your work as a teacher?**
+*(Question format: Free response)*

@@ -1,8 +1,11 @@
-General ideas:
+## How to Use the Survey
 
-* Assessing willingness to incorporate AI
-* Assessing readiness to incorporate AI 
-* What’s the vibe
-* Culture, support, trust (social exchange theory)
-* Potential to actually disseminate the survey if we get the provost on board 
-* Maybe at other peer institutions as well. 
+This survey was designed as part of a Survey Design and Analysis course at St. Olaf College by [Fortress Okorie](mailto:fortressokorie1@gmail.com), Elizabeth Doty, and Siri Sagedahl. The original goal of this survey was to help an institution assess current attitudes towards and readiness to incorporate GenAI tools in the teaching and learning process.
+
+For hosting an AI Literacy in Education discussion series, it serves as a sort of entry survey to understand the attitudes that people are bringing into the conversation, and to better ensure that everyone's voices are heard. Importantly, this survey is **not** designed to help you understand **why** people may hold the attitudes and views that they do.
+
+You can use as many or as few sections of the survey as you like, in any order you prefer, depending on what you're interested in, but for the richest possible picture, we recommend using all sections.
+
+### Why the Students vs. Faculty Split
+
+Students and faculty have very different roles in the teaching and learning process, and to some extent, different motivations. While there is definitely crossover between the two, we felt that it was important to pay attention to these differences and how they might impact the perceptions these groups hold, both in the design of the survey and the design of the conversation at large.

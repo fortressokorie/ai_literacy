@@ -1,0 +1,59 @@
+## Readiness to Use GenAI Tools
+
+The goal of the questions here is to help you understand how prepared people are to incorporate GenAI tools into their teaching and learning processes. The goal of this section is to help you determine if there are potential areas for training and upskilling for your faculty and students. In conjunction with the Attitudes Toward GenAI Use and Current Uses of GenAI sections, it helps build a holistic picture to assess attitudes towards and readiness for including GenAI tools in teaching and learning processes.
+
+### Students
+
+**1. How would you rate each of the following statements?**
+*(Question format: Likert scale — Disagree / Somewhat Disagree / Somewhat Agree / Agree)*
+
+- I feel confident in my ability to write "prompts" for GenAI.
+- I know which AI tools are best for each of my academic tasks.
+- I can distinguish between AI-generated misinformation and factual content.
+- My institution provides enough instruction on how to use AI in the classroom.
+- My institution provides enough instruction on how to use AI in my future career.
+- I am willing to learn new skills around AI usage.
+
+**2. Have you ever received training on AI usage through your institution?**
+
+- Yes
+- No
+
+**3. To what extent do the following concerns impact your readiness to use AI in academic settings?**
+*(Question format: Grid — Not a concern / Slight concern / Moderate concern / Extreme concern)*
+
+- Data privacy and security
+- Environmental impact
+- Influence on critical thinking ability
+- Academic dishonesty
+- Misinformation
+
+### Faculty
+
+**1. How would you rate each of the following statements?**
+*(Question format: Likert scale grid — Disagree / Somewhat Disagree / Somewhat Agree / Agree)*
+
+- I feel confident in my ability to write "prompts" for GenAI.
+- My institution provides enough instruction on how to use AI in the classroom.
+- I am willing to learn new skills around AI usage.
+- I can accurately distinguish between AI-generated work and students' original work.
+
+**2. Does your institution have a school-wide AI policy?**
+
+- Yes
+- No
+- I don't know
+
+**3. Have you ever received training on AI usage through your institution?**
+
+- Yes
+- No
+
+**4. To what extent do the following concerns impact your readiness to use AI in academic settings?**
+*(Question format: Grid — Not a concern / Slight concern / Moderate concern / Extreme concern)*
+
+- Data privacy and security
+- Environmental impact
+- Influence on critical thinking ability
+- Academic dishonesty
+- Misinformation
