@@ -25,7 +25,7 @@ Taken together, these sessions aim to foster AI literacy as a collective, commun
 
 
 
-[People](information/people.qmd) and [Resources](information/resources.qmd)
+[People](people.qmd) and [Resources](resources.qmd)
 
 
 ![](../static/logo_1.png)
