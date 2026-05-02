@@ -39,5 +39,11 @@ In practice â€” what came up, what surprised us, what we would do differently â€
 
 [**Explore the Resources tab.**](about/resources.qmd) Whether you are new to GenAI or looking to go deeper, the Resources tab hosts a curated list of free materials to help you and your community better understand and use these tools.
 
+## A note on GenAI use 
+
+This website was built with the assistance of generative AI tools. Specifically, I used Claude AI (Sonnet 4.6 Adaptive) to help with formatting content in Quarto Markdown. 
+
+All ideas, arguments, written content, and decisions reflected here are my own. GenAI tools were not used for the generation of any written content of any kind. 
+
 
 ![](static/logo_1.png)
