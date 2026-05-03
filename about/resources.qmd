@@ -1,52 +1,35 @@
 
 ![](../static/logo_3.png)
 
-The following are things that I found thought provoking in my reading about AI. 
+## Primers on Generative AI 
 
-## Interesting Articles 
+1. [Generative AI: A Brief Primer](https://genai.richmond.edu/about/primer.html) *From the University of Richmond*
+
+2. [A Simple Guide to the History of Generative AI](https://bernardmarr.com/a-simple-guide-to-the-history-of-generative-ai/) *By Bernard Marr*
+
+3. [Generative artificial intelligence: a historical perspective](https://pmc.ncbi.nlm.nih.gov/articles/PMC11970245/) *By Ran He et al.*
+
+## Perspectives from across the spectrum 
 
 1. [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace) *By Dario Amodei* 
-- Dario Amodei's take on how AI Could Transform the World for the Better
-- Note: Dario Amodei is the CEO of Anthropic
 
 2. [The Adolescnce of Technology](https://darioamodei.com/essay/the-adolescence-of-technology) *By Dario Amodei* 
-- Dario Amodei's take on Confronting and Overcoming the Risks of Powerful AI
 
 3. [Something Big is Happening](https://x.com/mattshumer_/status/2021256989876109403?s=42) *By Matt Schumer*
-- Matt Schumer makes a case for everyone to be using AI and compares the current moment to the weeks before Covid-19
-- Note: Matt Schumer is the CEO of an AI start-up
-- This take in my opinion is overly alarmist
 
 4. [How to Stay Sane in the AI Skills Race](https://www.wsj.com/tech/ai/how-to-stay-sane-in-the-ai-skills-race-d44b6c97) *By Callum Borchers* 
-- Callum Borchers is a Wall Street Journal Columnist and Senior Lecturer at Bentley University 
 
-5. [On The Dangers of Stochastic Parrots]( https://dl.acm.org/doi/10.1145/3442188.3445922) *By EM Bender et. al, 2021* 
+5. [AI Is Killing The Cover Letter](https://knowledge.wharton.upenn.edu/article/ai-is-killing-the-cover-letter/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=2-25-2026&utm_content=AI_Is_Killing_the_Cover_Letter) *By Judd Kessler*
 
-6. [AI Is Killing The Cover Letter](https://knowledge.wharton.upenn.edu/article/ai-is-killing-the-cover-letter/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=2-25-2026&utm_content=AI_Is_Killing_the_Cover_Letter) *By Judd Kessler*
-- Judd Kessler is a Professor in the Business Economics and Public Policy Department at the University of Pennsylvania's Wharton School of Business. 
+6. [Anthropic just dropped its core AI safety promise, and that should worry you](https://www.xda-developers.com/anthropic-just-dropped-its-core-ai-safety-promise/) *By Mahnoor Faisal for XDA*
 
-7. [Anthropic just dropped its core AI safety promise, and that should worry you](https://www.xda-developers.com/anthropic-just-dropped-its-core-ai-safety-promise/) *By Mahnoor Faisal for XDA*
+7. [How the Last Analog Generation Can Shape AI](https://knowledge.wharton.upenn.edu/article/how-the-last-analogue-generation-can-shape-ai/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=3-4-2026&utm_content=How_the_Last_Analog_Generation_Can_Shape_AI) *By Cornelia C. Walther*
 
-8. [How the Last Analog Generation Can Shape AI](https://knowledge.wharton.upenn.edu/article/how-the-last-analogue-generation-can-shape-ai/?utm_campaign=KatW_Weekly2026&utm_medium=email&utm_source=kw_campaign_monitor&utm_term=3-4-2026&utm_content=How_the_Last_Analog_Generation_Can_Shape_AI) *By Cornelia C. Walther*
-- Cornelia C. Walther is a visiting scholar at Wharton and director of global alliance POZE. 
+8. [Empire of AI: Dreams and Nightmares in Sam Altman's Open AI](https://karendhao.com/) *By Karen Hao*
 
-## Interesting Books
+## So you want to be an AI wizard: courses and tutorials
 
-1. [Your Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy](https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/) *By Kashmir Hill* 
-
-2. [Empire of AI: Dreams and Nightmares in Sam Altman's Open AI](https://karendhao.com/) *By Karen Hao*
-
-## Podcasts 
-
-1. [What happens when artificial intelligence quietly reshapes our lives?](https://www.npr.org/2025/05/21/nx-s1-5405608/what-happens-when-artificial-intelligence-quietly-reshapes-our-lives) *By Tonya Mosley and Kashmir Hill on NPR* 
-- Kashmir Hill is the author of [Your Face Belongs to Us: A Tale of AI, a Secretive Startup, and the End of Privacy](https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/)
-
-2. [Can algorithms deliver justice or do we need human judgement](https://www.youtube.com/watch?v=GRRidROtsK0&list=PLzGHKb8i9vTwlfs96-rRoKW3Jw0vRojfE&index=6) *On Doha Debates* 
-- This was a debate between Roman Yampolskiy a Professor of Computer Science at the University of Louisville known for his work in cybersecurity and AI safety and Nahiba Syed the Executive Director of the Mozilla Foundation and a free speech lawyer. 
-- Roman Yampolskiy argues that the future of law is computational, while Nabiha Syed insists justice is too human to be fully automated (can AI mediate a divorce?).⁠
+1. [Anthropic Courses](https://claude.com/resources/courses?open_in_browser=1) 
+- In particular [AI fluency for students](https://anthropic.skilljar.com/ai-fluency-for-students) and [AI fluency for educators](https://anthropic.skilljar.com/ai-fluency-for-educators)
 
 The perspectives represented here do not necessarily reflect my opinions. 
-
-*There is no inherent order in which these articles and books are listed - just the order I remembered them in*
-
-**If you come across anything that you think people should be reading please send them to me at okorie1@stolaf.edu so I can include them on this page**
