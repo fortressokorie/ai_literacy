@@ -23,7 +23,15 @@ move your community toward a more thoughtful, shared understanding of GenAI in e
 
 In an ideal world, you would move through the materials in roughly this order:
 
-[**Start with the survey**](survey/index.qmd) Before anything else, use the survey to take stock of where your community is. It will help you understand the attitudes and experiences people are bringing into the room so you can design conversations that meet them there.
+[**Start with the survey**](survey/index.qmd) — Before anything else, use the survey to take stock of where your community is. It will help you understand the attitudes and experiences people are bringing into the room so you can design conversations that meet them there. 
+
+The survey is broken down into three sections:
+
+- [**Attitudes towards GenAI Use**](survey/attitudes.qmd) — Explores respondents' current stance on GenAI tools, with a focus on the academic context.
+
+- [**Current Uses of GenAI**](survey/current_uses.qmd) — Captures how respondents currently engage with GenAI tools in relation to their academic work, whether in teaching or learning.
+
+- [**Readiness to Use GenAI Tools**](survey/readiness.qmd) — Invites respondents to self-assess how prepared they feel to incorporate GenAI tools into their teaching and learning practice.
 
 **Work through the Discussion Sessions in order.** Each session builds on the last:
 
