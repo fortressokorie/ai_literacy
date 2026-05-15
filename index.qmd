@@ -37,8 +37,10 @@ The survey is broken down into three sections:
 
 - [**Session 1**](Bookclub/discussion1.qmd) helps your community understand where it currently stands and where it might be 
 heading. 
+
 - [**Session 2**](Bookclub/discussion2.qmd) moves into deeper territory: ethics, trust, and transparency. Rather than jumping 
 to rules, it asks the prior question: *What values should be guiding us?*
+
 - [**Session 3**](Bookclub/discussion3.qmd) translates those values into action. It is a practical session focused on developing 
 concrete guidelines for how individual faculty members or perhaps your institution at large can approach GenAI in teaching and learning.
 
